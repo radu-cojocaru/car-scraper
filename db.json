@@ -168,6 +168,44 @@
             "firstSeen": "2020-09-14T18:32:26.780Z",
             "verdict": "NO",
             "lastSeen": "2020-09-14T18:33:34.023Z"
+        },
+        "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC_Coupe/GLC_220_d_4MATIC_Coupe--420463": {
+            "firstSeen": "2020-09-14T18:35:59.402Z",
+            "verdict": "NO"
+        },
+        "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC_Coupe/GLC_200_4MATIC_Coupe--420935": {
+            "firstSeen": "2020-09-14T18:35:59.404Z",
+            "verdict": "NO"
+        },
+        "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC_Coupe/GLC_200_d_4MATIC_Coupe--420948": {
+            "firstSeen": "2020-09-14T18:35:59.405Z",
+            "verdict": "NO"
+        },
+        "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC_Coupe/GLC_220_d_4MATIC_Coupe--416099": {
+            "firstSeen": "2020-09-14T18:35:59.405Z",
+            "verdict": "NO"
+        },
+        "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC_Coupe/GLC_220_d_4MATIC_Coupe--420010": {
+            "firstSeen": "2020-09-14T18:35:59.405Z",
+            "verdict": "MAYBE",
+            "price": "63356"
+        },
+        "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC_Coupe/GLC_300_e_4MATIC_Coupe--416685": {
+            "firstSeen": "2020-09-14T18:35:59.406Z",
+            "verdict": "NO"
+        },
+        "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC_Coupe/GLC_300_e_4MATIC_Coupe--416686": {
+            "firstSeen": "2020-09-14T18:35:59.406Z",
+            "verdict": "MAYBE"
+        },
+        "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC_Coupe/GLC_300_e_4MATIC_Coupe--415216": {
+            "firstSeen": "2020-09-14T18:35:59.406Z",
+            "verdict": "NU"
+        },
+        "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC_Coupe/GLC_300_e_4MATIC_Coupe--417291": {
+            "firstSeen": "2020-09-14T18:35:59.407Z",
+            "verdict": "MAYBE",
+            "price": "71783"
         }
     }
 }

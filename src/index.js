@@ -37,4 +37,10 @@ const visitNewCars = () => {
   console.log(urls);
 };
 
-findNewCars();
+const countCars = () => {
+  const urlsData = db.getData("|urls");
+  console.log(Object.keys(urlsData).length);
+};
+
+// findNewCars();
+countCars();
