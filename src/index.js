@@ -37,4 +37,4 @@ const visitNewCars = () => {
   console.log(urls);
 };
 
-visitNewCars();
+findNewCars();

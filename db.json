@@ -1,168 +1,173 @@
 {
-  "cars": {
-    "glc": {}
-  },
-  "urls": {
-    "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC/200_4MATIC--419661": {
-      "firstSeen": "2020-09-10T12:50:51.658Z",
-      "lastSeen": "2020-09-10T12:51:16.591Z",
-      "verdict": "NO",
-      "price": "55551",
-      "lacks": "distronic plus"
+    "cars": {
+        "glc": {}
     },
-    "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC/300_e_4MATIC--420970": {
-      "firstSeen": "2020-09-10T12:50:51.665Z",
-      "lastSeen": "2020-09-10T12:51:16.592Z",
-      "verdict": "NO"
-    },
-    "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC/300_4MATIC_Coupe--420947": {
-      "firstSeen": "2020-09-10T12:50:51.665Z",
-      "lastSeen": "2020-09-10T12:51:16.598Z",
-      "verdict": "NO"
-    },
-    "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC/300_e_4MATIC--420865": {
-      "firstSeen": "2020-09-10T12:50:51.666Z",
-      "lastSeen": "2020-09-10T12:51:16.599Z",
-      "verdict": "NO"
-    },
-    "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC/300_4MATIC--420609": {
-      "firstSeen": "2020-09-10T12:50:51.666Z",
-      "lastSeen": "2020-09-10T12:51:16.599Z",
-      "verdict": "NO"
-    },
-    "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC/220_d_4MATIC--411200": {
-      "firstSeen": "2020-09-10T12:50:51.666Z",
-      "lastSeen": "2020-09-10T12:51:16.600Z",
-      "verdict": "NO"
-    },
-    "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC/200_4MATIC--418640": {
-      "firstSeen": "2020-09-10T12:50:51.667Z",
-      "lastSeen": "2020-09-10T12:51:16.600Z",
-      "verdict": "NO"
-    },
-    "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC/200_4MATIC--418639": {
-      "firstSeen": "2020-09-10T12:50:51.667Z",
-      "lastSeen": "2020-09-10T12:51:16.600Z",
-      "verdict": "NO"
-    },
-    "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC/250_d_4MATIC--405352": {
-      "firstSeen": "2020-09-10T12:50:51.667Z",
-      "lastSeen": "2020-09-10T12:51:16.600Z",
-      "verdict": "NO"
-    },
-    "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC/200_d_4MATIC--419194": {
-      "firstSeen": "2020-09-10T12:50:51.668Z",
-      "lastSeen": "2020-09-10T12:51:16.600Z",
-      "verdict": "NO"
-    },
-    "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC/200_4MATIC--419112": {
-      "firstSeen": "2020-09-10T12:50:51.668Z",
-      "lastSeen": "2020-09-10T12:51:16.601Z",
-      "verdict": "NO"
-    },
-    "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC/200_4MATIC--419663": {
-      "firstSeen": "2020-09-10T12:50:51.668Z",
-      "lastSeen": "2020-09-10T12:51:16.601Z",
-      "verdict": "NO"
-    },
-    "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC/200_d_4MATIC--419000": {
-      "firstSeen": "2020-09-10T12:50:51.668Z",
-      "lastSeen": "2020-09-10T12:51:16.601Z",
-      "verdict": "NO"
-    },
-    "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC/250_d_4MATIC--406325": {
-      "firstSeen": "2020-09-10T12:50:51.668Z",
-      "lastSeen": "2020-09-10T12:51:16.601Z",
-      "verdict": "NO"
-    },
-    "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC/200_d_4MATIC--411202": {
-      "firstSeen": "2020-09-10T12:50:51.668Z",
-      "lastSeen": "2020-09-10T12:51:16.601Z",
-      "verdict": "MAYBE",
-      "price": "46900"
-    },
-    "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC/200_d_4MATIC--415793": {
-      "firstSeen": "2020-09-10T12:50:51.669Z",
-      "lastSeen": "2020-09-10T12:51:16.602Z",
-      "verdict": "NO",
-      "deleted": true
-    },
-    "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC/300_e_4MATIC--417349": {
-      "firstSeen": "2020-09-10T12:50:51.669Z",
-      "lastSeen": "2020-09-10T12:51:16.602Z",
-      "verdict": "NO"
-    },
-    "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC/220_d_4MATIC--416079": {
-      "firstSeen": "2020-09-10T12:50:51.669Z",
-      "lastSeen": "2020-09-10T12:51:16.602Z",
-      "verdict": "NO"
-    },
-    "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC/300_4MATIC--411359": {
-      "firstSeen": "2020-09-10T12:50:51.669Z",
-      "lastSeen": "2020-09-10T12:51:16.602Z",
-      "verdict": "NO"
-    },
-    "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC/300_4MATIC--414475": {
-      "firstSeen": "2020-09-10T12:50:51.669Z",
-      "lastSeen": "2020-09-10T12:51:16.602Z",
-      "verdict": "NO"
-    },
-    "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC/220_d_4MATIC--405898": {
-      "firstSeen": "2020-09-10T12:50:51.669Z",
-      "lastSeen": "2020-09-10T12:51:16.603Z",
-      "verdict": "NO"
-    },
-    "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC/300_4MATIC--413853": {
-      "firstSeen": "2020-09-10T12:50:51.669Z",
-      "lastSeen": "2020-09-10T12:51:16.603Z",
-      "verdict": "NO"
-    },
-    "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC/300_d_4MATIC--413852": {
-      "firstSeen": "2020-09-10T12:50:51.670Z",
-      "lastSeen": "2020-09-10T12:51:16.603Z",
-      "verdict": "MAYBE",
-      "price": "67003"
-    },
-    "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC/300_4MATIC--413714": {
-      "firstSeen": "2020-09-10T12:50:51.670Z",
-      "lastSeen": "2020-09-10T12:51:16.603Z",
-      "verdict": "NO"
-    },
-    "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC/250_d_4MATIC--406421": {
-      "firstSeen": "2020-09-10T12:50:51.670Z",
-      "lastSeen": "2020-09-10T12:51:16.603Z",
-      "verdict": "NO"
-    },
-    "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC/220_d_4MATIC--403697": {
-      "firstSeen": "2020-09-10T12:50:51.670Z",
-      "lastSeen": "2020-09-10T12:51:16.603Z",
-      "verdict": "NO"
-    },
-    "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC/220_d_4MATIC--405896": {
-      "firstSeen": "2020-09-10T12:50:51.670Z",
-      "lastSeen": "2020-09-10T12:51:16.603Z",
-      "verdict": "NO"
-    },
-    "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC/250_d_4MATIC--407063": {
-      "firstSeen": "2020-09-10T12:50:51.670Z",
-      "lastSeen": "2020-09-10T12:51:16.604Z",
-      "verdict": "NO"
-    },
-    "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC/300_d_4MATIC_Coupe--420624": {
-      "firstSeen": "2020-09-10T12:50:51.671Z",
-      "lastSeen": "2020-09-10T12:51:16.604Z",
-      "verdict": "NO"
-    },
-    "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC/300_4MATIC--420769": {
-      "firstSeen": "2020-09-10T12:50:51.671Z",
-      "lastSeen": "2020-09-10T12:51:16.604Z",
-      "verdict": "MAYBE",
-      "price": "56981"
-    },
-    "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC/250_4MATIC--420507": {
-      "firstSeen": "2020-09-10T12:50:51.671Z",
-      "lastSeen": "2020-09-10T12:51:16.604Z",
-      "verdict": "NO"
+    "urls": {
+        "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC/200_4MATIC--419661": {
+            "firstSeen": "2020-09-10T12:50:51.658Z",
+            "lastSeen": "2020-09-14T18:33:34.025Z",
+            "verdict": "NO",
+            "price": "55551",
+            "lacks": "distronic plus"
+        },
+        "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC/300_e_4MATIC--420970": {
+            "firstSeen": "2020-09-10T12:50:51.665Z",
+            "lastSeen": "2020-09-14T18:33:34.026Z",
+            "verdict": "NO"
+        },
+        "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC/300_4MATIC_Coupe--420947": {
+            "firstSeen": "2020-09-10T12:50:51.665Z",
+            "lastSeen": "2020-09-14T18:33:34.027Z",
+            "verdict": "NO"
+        },
+        "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC/300_e_4MATIC--420865": {
+            "firstSeen": "2020-09-10T12:50:51.666Z",
+            "lastSeen": "2020-09-14T18:33:34.027Z",
+            "verdict": "NO"
+        },
+        "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC/300_4MATIC--420609": {
+            "firstSeen": "2020-09-10T12:50:51.666Z",
+            "lastSeen": "2020-09-14T18:33:34.027Z",
+            "verdict": "NO"
+        },
+        "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC/220_d_4MATIC--411200": {
+            "firstSeen": "2020-09-10T12:50:51.666Z",
+            "lastSeen": "2020-09-14T18:33:34.028Z",
+            "verdict": "NO"
+        },
+        "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC/200_4MATIC--418640": {
+            "firstSeen": "2020-09-10T12:50:51.667Z",
+            "lastSeen": "2020-09-14T18:33:34.028Z",
+            "verdict": "NO"
+        },
+        "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC/200_4MATIC--418639": {
+            "firstSeen": "2020-09-10T12:50:51.667Z",
+            "lastSeen": "2020-09-14T18:33:34.028Z",
+            "verdict": "NO"
+        },
+        "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC/250_d_4MATIC--405352": {
+            "firstSeen": "2020-09-10T12:50:51.667Z",
+            "lastSeen": "2020-09-14T18:33:34.028Z",
+            "verdict": "NO"
+        },
+        "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC/200_d_4MATIC--419194": {
+            "firstSeen": "2020-09-10T12:50:51.668Z",
+            "lastSeen": "2020-09-14T18:33:34.029Z",
+            "verdict": "NO"
+        },
+        "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC/200_4MATIC--419112": {
+            "firstSeen": "2020-09-10T12:50:51.668Z",
+            "lastSeen": "2020-09-14T18:33:34.029Z",
+            "verdict": "NO"
+        },
+        "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC/200_4MATIC--419663": {
+            "firstSeen": "2020-09-10T12:50:51.668Z",
+            "lastSeen": "2020-09-14T18:33:34.029Z",
+            "verdict": "NO"
+        },
+        "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC/200_d_4MATIC--419000": {
+            "firstSeen": "2020-09-10T12:50:51.668Z",
+            "lastSeen": "2020-09-14T18:33:34.030Z",
+            "verdict": "NO"
+        },
+        "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC/250_d_4MATIC--406325": {
+            "firstSeen": "2020-09-10T12:50:51.668Z",
+            "lastSeen": "2020-09-14T18:33:34.030Z",
+            "verdict": "NO"
+        },
+        "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC/200_d_4MATIC--411202": {
+            "firstSeen": "2020-09-10T12:50:51.668Z",
+            "lastSeen": "2020-09-14T18:33:34.030Z",
+            "verdict": "MAYBE",
+            "price": "46900"
+        },
+        "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC/200_d_4MATIC--415793": {
+            "firstSeen": "2020-09-10T12:50:51.669Z",
+            "lastSeen": "2020-09-10T12:51:16.602Z",
+            "verdict": "NO",
+            "deleted": true
+        },
+        "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC/300_e_4MATIC--417349": {
+            "firstSeen": "2020-09-10T12:50:51.669Z",
+            "lastSeen": "2020-09-14T18:33:34.030Z",
+            "verdict": "NO"
+        },
+        "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC/220_d_4MATIC--416079": {
+            "firstSeen": "2020-09-10T12:50:51.669Z",
+            "lastSeen": "2020-09-14T18:33:34.031Z",
+            "verdict": "NO"
+        },
+        "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC/300_4MATIC--411359": {
+            "firstSeen": "2020-09-10T12:50:51.669Z",
+            "lastSeen": "2020-09-14T18:33:34.031Z",
+            "verdict": "NO"
+        },
+        "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC/300_4MATIC--414475": {
+            "firstSeen": "2020-09-10T12:50:51.669Z",
+            "lastSeen": "2020-09-14T18:33:34.031Z",
+            "verdict": "NO"
+        },
+        "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC/220_d_4MATIC--405898": {
+            "firstSeen": "2020-09-10T12:50:51.669Z",
+            "lastSeen": "2020-09-14T18:33:34.031Z",
+            "verdict": "NO"
+        },
+        "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC/300_4MATIC--413853": {
+            "firstSeen": "2020-09-10T12:50:51.669Z",
+            "lastSeen": "2020-09-14T18:33:34.032Z",
+            "verdict": "NO"
+        },
+        "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC/300_d_4MATIC--413852": {
+            "firstSeen": "2020-09-10T12:50:51.670Z",
+            "lastSeen": "2020-09-14T18:33:34.032Z",
+            "verdict": "MAYBE",
+            "price": "67003"
+        },
+        "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC/300_4MATIC--413714": {
+            "firstSeen": "2020-09-10T12:50:51.670Z",
+            "lastSeen": "2020-09-14T18:33:34.032Z",
+            "verdict": "NO"
+        },
+        "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC/250_d_4MATIC--406421": {
+            "firstSeen": "2020-09-10T12:50:51.670Z",
+            "lastSeen": "2020-09-14T18:33:34.032Z",
+            "verdict": "NO"
+        },
+        "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC/220_d_4MATIC--403697": {
+            "firstSeen": "2020-09-10T12:50:51.670Z",
+            "lastSeen": "2020-09-14T18:33:34.033Z",
+            "verdict": "NO"
+        },
+        "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC/220_d_4MATIC--405896": {
+            "firstSeen": "2020-09-10T12:50:51.670Z",
+            "lastSeen": "2020-09-14T18:33:34.033Z",
+            "verdict": "NO"
+        },
+        "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC/250_d_4MATIC--407063": {
+            "firstSeen": "2020-09-10T12:50:51.670Z",
+            "lastSeen": "2020-09-14T18:33:34.033Z",
+            "verdict": "NO"
+        },
+        "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC/300_d_4MATIC_Coupe--420624": {
+            "firstSeen": "2020-09-10T12:50:51.671Z",
+            "lastSeen": "2020-09-14T18:33:34.034Z",
+            "verdict": "NO"
+        },
+        "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC/300_4MATIC--420769": {
+            "firstSeen": "2020-09-10T12:50:51.671Z",
+            "lastSeen": "2020-09-14T18:33:34.034Z",
+            "verdict": "MAYBE",
+            "price": "56981"
+        },
+        "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC/250_4MATIC--420507": {
+            "firstSeen": "2020-09-10T12:50:51.671Z",
+            "lastSeen": "2020-09-14T18:33:34.034Z",
+            "verdict": "NO"
+        },
+        "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC/200_d--420542": {
+            "firstSeen": "2020-09-14T18:32:26.780Z",
+            "verdict": "NO",
+            "lastSeen": "2020-09-14T18:33:34.023Z"
+        }
     }
-  }
 }
