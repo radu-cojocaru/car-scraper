@@ -22,10 +22,13 @@ const buildFilter = ({ minYear, minKm } = {}) => {
   return params.join("|");
 };
 
-const extractCarUrls = (html) => {
-  const allUrls = html.match(
-    /https:\/\/www.autoklass-market.ro\/masini\/Mercedes-Benz\/GLC\/([A-Za-z0-9-_])+/g
-  );
+const extractCarUrls = (html, carModel = "glc") => {
+  let regexp = /https:\/\/www.autoklass-market.ro\/masini\/Mercedes-Benz\/GLC\/([A-Za-z0-9-_])+/g;
+  if (carModel === "glcCoupe") {
+    regexp = /https:\/\/www.autoklass-market.ro\/masini\/Mercedes-Benz\/GLC_Coupe\/([A-Za-z0-9-_])+/g;
+  }
+
+  const allUrls = html.match(regexp);
   return allUrls ? Array.from(new Set(allUrls)) : [];
 };
 
@@ -44,7 +47,7 @@ const scrapper = (config = {}) => {
       .then((response) =>
         response.data.includes("Cautarea nu a returnat nici un rezultat.")
           ? []
-          : extractCarUrls(response.data)
+          : extractCarUrls(response.data, carConfig.model)
       )
       .catch((err) => {
         console.error(err);
