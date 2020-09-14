@@ -24,7 +24,7 @@ const findNewCars = () => {
         urlData = { firstSeen: new Date().toISOString() };
         db.push(urlPath, urlData);
       }
-      if (!urlData.visited) {
+      if (!urlData.verdict) {
         console.log(url);
       }
     });

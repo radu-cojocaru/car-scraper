@@ -1,11 +1,13 @@
 const axios = require("axios");
 
-// "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC?filtre=km_min:0|an_fabr_min:2019";
+// https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC?filtre=km_min:0|an_fabr_min:2019"
+// https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC_Coupe?filtre=an_fabr_min:2019
 const baseURL = "https://www.autoklass-market.ro/masini/";
 const axiosInstance = axios.create({ baseURL });
 
 const modelSubPath = {
   glc: "Mercedes-Benz/GLC",
+  glcCoupe: "Mercedes-Benz/GLC_Coupe"
 };
 
 // filtre=km_min:0|an_fabr_min:2019
