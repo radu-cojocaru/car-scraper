@@ -13,6 +13,8 @@ const db = new JsonDB(
 const findNewCars = () => {
   const autoklassScrapper = autoklass.scrapper(config);
   autoklassScrapper.scrapCarUrls().then((urls) => {
+    let newUrls = 0;
+
     urls.forEach((url) => {
       let urlData;
       const urlPath = `|urls|${url}`;
@@ -26,8 +28,11 @@ const findNewCars = () => {
       }
       if (!urlData.verdict) {
         console.log(url);
+        newUrls++;
       }
     });
+
+    console.log(`New urls: ${newUrls}`);
   });
 };
 

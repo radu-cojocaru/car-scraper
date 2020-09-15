@@ -1,6 +1,6 @@
 module.exports = {
   car: {
-    model: "glcCoupe",
+    model: "glc",
     minYear: 2019,
     minMonth: 7, // july
     minKm: 0,
