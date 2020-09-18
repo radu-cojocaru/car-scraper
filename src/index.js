@@ -47,5 +47,5 @@ const countCars = () => {
   console.log(Object.keys(urlsData).length);
 };
 
-// findNewCars();
-countCars();
+findNewCars();
+// countCars();
