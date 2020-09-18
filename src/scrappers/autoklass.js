@@ -9,12 +9,14 @@ const modelSubPath = {
   glc: "Mercedes-Benz/GLC",
   glcCoupe: "Mercedes-Benz/GLC_Coupe",
   gle: "Mercedes-Benz/GLE",
+  gleCoupe: "Mercedes-Benz/GLE_Coupe",
 };
 
 const modelUrlRegexp = {
   glc: /https:\/\/www.autoklass-market.ro\/masini\/Mercedes-Benz\/GLC\/([A-Za-z0-9-_])+/g,
   glcCoupe: /https:\/\/www.autoklass-market.ro\/masini\/Mercedes-Benz\/GLC_Coupe\/([A-Za-z0-9-_])+/g,
   gle: /https:\/\/www.autoklass-market.ro\/masini\/Mercedes-Benz\/GLE\/([A-Za-z0-9-_])+/g,
+  gleCoupe: /https:\/\/www.autoklass-market.ro\/masini\/Mercedes-Benz\/GLE_Coupe\/([A-Za-z0-9-_])+/g,
 };
 
 // filtre=km_min:0|an_fabr_min:2019

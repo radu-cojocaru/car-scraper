@@ -429,6 +429,54 @@
             "firstSeen": "2020-09-18T16:00:22.715Z",
             "verdict": "NO",
             "lastSeen": "2020-09-18T16:00:51.346Z"
+        },
+        "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE_Coupe/GLE_350_d_4MATIC_Coupe--421126": {
+            "firstSeen": "2020-09-18T16:02:53.234Z",
+            "verdict": "EXPENSIVE"
+        },
+        "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE_Coupe/GLE_400_d_4MATIC_Coupe--421085": {
+            "firstSeen": "2020-09-18T16:02:53.235Z",
+            "verdict": "EXPENSIVE"
+        },
+        "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE_Coupe/GLE_350_d_4MATIC_Coupe--421055": {
+            "firstSeen": "2020-09-18T16:02:53.241Z",
+            "verdict": "EXPENSIVE"
+        },
+        "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE_Coupe/GLE_400_d_4MATIC_Coupe--419779": {
+            "firstSeen": "2020-09-18T16:02:53.241Z",
+            "verdict": "EXPENSIVE"
+        },
+        "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE_Coupe/GLE_400_d_4MATIC_Coupe--417857": {
+            "firstSeen": "2020-09-18T16:02:53.242Z",
+            "verdict": "EXPENSIVE"
+        },
+        "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE_Coupe/GLE_400_d_4MATIC_Coupe--418078": {
+            "firstSeen": "2020-09-18T16:02:53.242Z",
+            "verdict": "EXPENSIVE"
+        },
+        "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE_Coupe/GLE_400_d_4MATIC_Coupe--417800": {
+            "firstSeen": "2020-09-18T16:02:53.243Z",
+            "verdict": "EXPENSIVE"
+        },
+        "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE_Coupe/GLE_400_d_4MATIC_Coupe--416560": {
+            "firstSeen": "2020-09-18T16:02:53.244Z",
+            "verdict": "EXPENSIVE"
+        },
+        "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE_Coupe/GLE_350_d_4MATIC_Coupe--409565": {
+            "firstSeen": "2020-09-18T16:02:53.244Z",
+            "verdict": "NO"
+        },
+        "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE_Coupe/GLE_350_d_4MATIC_Coupe--409555": {
+            "firstSeen": "2020-09-18T16:02:53.244Z",
+            "verdict": "NO"
+        },
+        "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE_Coupe/GLE_350_d_4MATIC_Coupe--409614": {
+            "firstSeen": "2020-09-18T16:02:53.244Z",
+            "verdict": "NO"
+        },
+        "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE_Coupe/GLE_350_d_4MATIC_Coupe--409519": {
+            "firstSeen": "2020-09-18T16:02:53.245Z",
+            "verdict": "NO"
         }
     }
 }
