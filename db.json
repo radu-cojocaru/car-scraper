@@ -237,7 +237,198 @@
             "price": "51194"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC/200_4MATIC--418451": {
-            "firstSeen": "2020-09-18T13:07:57.836Z"
+            "firstSeen": "2020-09-18T13:07:57.836Z",
+            "verdict": "NO"
+        },
+        "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE/350_de_4MATIC--420844": {
+            "firstSeen": "2020-09-18T15:01:11.614Z",
+            "verdict": "NO",
+            "lastSeen": "2020-09-18T16:00:51.333Z"
+        },
+        "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE/350_d_4MATIC--409817": {
+            "firstSeen": "2020-09-18T15:01:11.615Z",
+            "verdict": "YES",
+            "lastSeen": "2020-09-18T16:00:51.334Z"
+        },
+        "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE/350_d_4MATIC--409697": {
+            "firstSeen": "2020-09-18T15:01:11.620Z",
+            "verdict": "NO",
+            "lastSeen": "2020-09-18T16:00:51.340Z"
+        },
+        "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE/350_d_4MATIC--421089": {
+            "firstSeen": "2020-09-18T15:01:11.621Z",
+            "verdict": "EXPENSIVE",
+            "lastSeen": "2020-09-18T16:00:51.340Z"
+        },
+        "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE/350_d_4MATIC--417457": {
+            "firstSeen": "2020-09-18T15:01:11.621Z",
+            "verdict": "EXPENSIVE",
+            "lastSeen": "2020-09-18T16:00:51.340Z"
+        },
+        "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE/350_d_4MATIC--419613": {
+            "firstSeen": "2020-09-18T15:01:11.622Z",
+            "verdict": "EXPENSIVE",
+            "lastSeen": "2020-09-18T16:00:51.340Z"
+        },
+        "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE/300_d_4MATIC--419148": {
+            "firstSeen": "2020-09-18T15:01:11.622Z",
+            "verdict": "NO",
+            "lastSeen": "2020-09-18T16:00:51.340Z"
+        },
+        "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE/400_d_4MATIC--416406": {
+            "firstSeen": "2020-09-18T15:01:11.622Z",
+            "verdict": "EXPENSIVE",
+            "lastSeen": "2020-09-18T16:00:51.341Z"
+        },
+        "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE/350_d_4MATIC--420459": {
+            "firstSeen": "2020-09-18T15:01:11.623Z",
+            "verdict": "MAYBE",
+            "lastSeen": "2020-09-18T16:00:51.341Z"
+        },
+        "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE/400_d_4MATIC--420806": {
+            "firstSeen": "2020-09-18T15:01:11.623Z",
+            "verdict": "EXPENSIVE",
+            "lastSeen": "2020-09-18T16:00:51.341Z"
+        },
+        "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE/350_d_4MATIC--420520": {
+            "firstSeen": "2020-09-18T15:01:11.623Z",
+            "verdict": "EXPENSIVE",
+            "lastSeen": "2020-09-18T16:00:51.341Z"
+        },
+        "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE/300_d_4MATIC--419579": {
+            "firstSeen": "2020-09-18T15:01:11.623Z",
+            "verdict": "NO",
+            "lastSeen": "2020-09-18T16:00:51.341Z"
+        },
+        "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE/300_d_4MATIC--419585": {
+            "firstSeen": "2020-09-18T15:01:11.624Z",
+            "verdict": "NO",
+            "lastSeen": "2020-09-18T16:00:51.342Z"
+        },
+        "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE/300_d_4MATIC--420266": {
+            "firstSeen": "2020-09-18T15:01:11.624Z",
+            "verdict": "NO",
+            "lastSeen": "2020-09-18T16:00:51.342Z"
+        },
+        "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE/400_d_4MATIC--409695": {
+            "firstSeen": "2020-09-18T15:01:11.625Z",
+            "verdict": "NO",
+            "lastSeen": "2020-09-18T16:00:51.342Z"
+        },
+        "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE/400_d_4MATIC--416497": {
+            "firstSeen": "2020-09-18T15:01:11.625Z",
+            "verdict": "EXPENSIVE",
+            "lastSeen": "2020-09-18T16:00:51.342Z"
+        },
+        "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE/400_d_4MATIC--419633": {
+            "firstSeen": "2020-09-18T15:01:11.625Z",
+            "verdict": "EXPENSIVE",
+            "lastSeen": "2020-09-18T16:00:51.342Z"
+        },
+        "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE/400_d_4MATIC--419592": {
+            "firstSeen": "2020-09-18T15:01:11.626Z",
+            "verdict": "EXPENSIVE",
+            "lastSeen": "2020-09-18T16:00:51.342Z"
+        },
+        "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE/300_d_4MATIC--414249": {
+            "firstSeen": "2020-09-18T15:01:11.626Z",
+            "verdict": "NO",
+            "lastSeen": "2020-09-18T16:00:51.343Z"
+        },
+        "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE/300_d_4MATIC--419578": {
+            "firstSeen": "2020-09-18T15:01:11.626Z",
+            "verdict": "NO",
+            "lastSeen": "2020-09-18T16:00:51.343Z"
+        },
+        "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE/300_d_4MATIC--419587": {
+            "firstSeen": "2020-09-18T15:01:11.626Z",
+            "verdict": "NO",
+            "lastSeen": "2020-09-18T16:00:51.343Z"
+        },
+        "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE/300_d_4MATIC--419584": {
+            "firstSeen": "2020-09-18T15:01:11.626Z",
+            "verdict": "NO",
+            "lastSeen": "2020-09-18T16:00:51.344Z"
+        },
+        "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE/300_d_4MATIC--419664": {
+            "firstSeen": "2020-09-18T15:01:11.627Z",
+            "verdict": "NO",
+            "lastSeen": "2020-09-18T16:00:51.344Z"
+        },
+        "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE/300_d_4MATIC--417467": {
+            "firstSeen": "2020-09-18T15:01:11.627Z",
+            "verdict": "EXPENSIVE",
+            "lastSeen": "2020-09-18T16:00:51.344Z"
+        },
+        "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE/300_d_4MATIC--408927": {
+            "firstSeen": "2020-09-18T15:01:11.627Z",
+            "verdict": "NO",
+            "lastSeen": "2020-09-18T16:00:51.344Z"
+        },
+        "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE/400_d_4MATIC--417317": {
+            "firstSeen": "2020-09-18T15:01:11.627Z",
+            "verdict": "EXPENSIVE",
+            "lastSeen": "2020-09-18T16:00:51.344Z"
+        },
+        "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE/350_d_4MATIC--417354": {
+            "firstSeen": "2020-09-18T15:01:11.628Z",
+            "verdict": "EXPENSIVE",
+            "lastSeen": "2020-09-18T16:00:51.344Z"
+        },
+        "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE/400_d_4MATIC--409808": {
+            "firstSeen": "2020-09-18T15:01:11.628Z",
+            "verdict": "EXPENSIVE",
+            "lastSeen": "2020-09-18T16:00:51.345Z"
+        },
+        "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE/300_d_4MATIC--409684": {
+            "firstSeen": "2020-09-18T15:01:11.628Z",
+            "verdict": "MAYBE",
+            "lastSeen": "2020-09-18T16:00:51.345Z"
+        },
+        "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE/400_d_4MATIC--406511": {
+            "firstSeen": "2020-09-18T15:01:11.628Z",
+            "verdict": "EXPENSIVE",
+            "lastSeen": "2020-09-18T16:00:51.345Z"
+        },
+        "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE/400_d_4MATIC--410014": {
+            "firstSeen": "2020-09-18T15:01:11.629Z",
+            "verdict": "EXPENSIVE",
+            "lastSeen": "2020-09-18T16:00:51.345Z"
+        },
+        "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE/300_d_4MATIC--406293": {
+            "firstSeen": "2020-09-18T15:01:11.629Z",
+            "verdict": "EXPENSIVE",
+            "lastSeen": "2020-09-18T16:00:51.345Z"
+        },
+        "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE/400_d_4MATIC--415444": {
+            "firstSeen": "2020-09-18T15:01:11.629Z",
+            "verdict": "EXPENSIVE",
+            "lastSeen": "2020-09-18T16:00:51.345Z"
+        },
+        "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE/400_d_4MATIC--410805": {
+            "firstSeen": "2020-09-18T15:01:11.629Z",
+            "verdict": "EXPENSIVE",
+            "lastSeen": "2020-09-18T16:00:51.345Z"
+        },
+        "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE/400_d_4MATIC--409703": {
+            "firstSeen": "2020-09-18T15:01:11.629Z",
+            "verdict": "EXPENSIVE",
+            "lastSeen": "2020-09-18T16:00:51.346Z"
+        },
+        "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE/450_4MATIC--413556": {
+            "firstSeen": "2020-09-18T15:01:11.630Z",
+            "verdict": "MAYBE",
+            "lastSeen": "2020-09-18T16:00:51.346Z"
+        },
+        "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE/350_d_4MATIC--421275": {
+            "firstSeen": "2020-09-18T15:01:11.630Z",
+            "verdict": "EXPENSIVE",
+            "lastSeen": "2020-09-18T16:00:51.346Z"
+        },
+        "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE/Mercedes-AMG__53_4MATIC": {
+            "firstSeen": "2020-09-18T16:00:22.715Z",
+            "verdict": "NO",
+            "lastSeen": "2020-09-18T16:00:51.346Z"
         }
     }
 }

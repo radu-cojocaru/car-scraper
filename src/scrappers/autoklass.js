@@ -7,7 +7,14 @@ const axiosInstance = axios.create({ baseURL });
 
 const modelSubPath = {
   glc: "Mercedes-Benz/GLC",
-  glcCoupe: "Mercedes-Benz/GLC_Coupe"
+  glcCoupe: "Mercedes-Benz/GLC_Coupe",
+  gle: "Mercedes-Benz/GLE",
+};
+
+const modelUrlRegexp = {
+  glc: /https:\/\/www.autoklass-market.ro\/masini\/Mercedes-Benz\/GLC\/([A-Za-z0-9-_])+/g,
+  glcCoupe: /https:\/\/www.autoklass-market.ro\/masini\/Mercedes-Benz\/GLC_Coupe\/([A-Za-z0-9-_])+/g,
+  gle: /https:\/\/www.autoklass-market.ro\/masini\/Mercedes-Benz\/GLE\/([A-Za-z0-9-_])+/g,
 };
 
 // filtre=km_min:0|an_fabr_min:2019
@@ -23,11 +30,7 @@ const buildFilter = ({ minYear, minKm } = {}) => {
 };
 
 const extractCarUrls = (html, carModel = "glc") => {
-  let regexp = /https:\/\/www.autoklass-market.ro\/masini\/Mercedes-Benz\/GLC\/([A-Za-z0-9-_])+/g;
-  if (carModel === "glcCoupe") {
-    regexp = /https:\/\/www.autoklass-market.ro\/masini\/Mercedes-Benz\/GLC_Coupe\/([A-Za-z0-9-_])+/g;
-  }
-
+  let regexp = modelUrlRegexp[carModel];
   const allUrls = html.match(regexp);
   return allUrls ? Array.from(new Set(allUrls)) : [];
 };
