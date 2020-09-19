@@ -1234,6 +1234,140 @@
         "https://www.autovit.ro/anunt/mercedes-benz-glc-ID7GCOnI.html": {
             "firstSeen": "2020-09-19T12:44:43.281Z",
             "verdict": "NO"
+        },
+        "https://www.autovit.ro/anunt/mercedes-benz-glc-coupe-ID7GzAkE.html#9d0254d798": {
+            "verdict": "NO"
+        },
+        "https://www.autovit.ro/anunt/mercedes-benz-glc-coupe-ID7GB3KR.html#9d0254d798": {
+            "verdict": "NO"
+        },
+        "https://www.autovit.ro/anunt/mercedes-benz-glc-coupe-ID7GDJe2.html": {
+            "firstSeen": "2020-09-19T13:14:18.273Z",
+            "verdict": "NO"
+        },
+        "https://www.autovit.ro/anunt/mercedes-benz-glc-coupe-ID7GDIju.html": {
+            "firstSeen": "2020-09-19T13:14:18.275Z",
+            "verdict": "NO"
+        },
+        "https://www.autovit.ro/anunt/mercedes-benz-glc-coupe-ID7GDIe9.html": {
+            "firstSeen": "2020-09-19T13:14:18.281Z",
+            "verdict": "NO"
+        },
+        "https://www.autovit.ro/anunt/mercedes-benz-glc-coupe-ID7GDGAP.html": {
+            "firstSeen": "2020-09-19T13:14:18.283Z",
+            "verdict": "NO"
+        },
+        "https://www.autovit.ro/anunt/mercedes-benz-glc-coupe-ID7GDDcM.html": {
+            "firstSeen": "2020-09-19T13:14:18.284Z",
+            "verdict": "NO"
+        },
+        "https://www.autovit.ro/anunt/mercedes-benz-glc-coupe-ID7GDkiC.html": {
+            "firstSeen": "2020-09-19T13:14:18.284Z",
+            "verdict": "EXPENSIVE"
+        },
+        "https://www.autovit.ro/anunt/mercedes-benz-glc-coupe-ID7GDgqY.html": {
+            "firstSeen": "2020-09-19T13:14:18.285Z",
+            "verdict": "SOLD"
+        },
+        "https://www.autovit.ro/anunt/mercedes-benz-glc-coupe-ID7GD17j.html": {
+            "firstSeen": "2020-09-19T13:14:18.286Z",
+            "verdict": "NO"
+        },
+        "https://www.autovit.ro/anunt/mercedes-benz-glc-coupe-ID7GCYD5.html": {
+            "firstSeen": "2020-09-19T13:14:18.286Z",
+            "verdict": "NO"
+        },
+        "https://www.autovit.ro/anunt/mercedes-benz-glc-coupe-ID7GCY4R.html": {
+            "firstSeen": "2020-09-19T13:14:18.287Z",
+            "verdict": "NO"
+        },
+        "https://www.autovit.ro/anunt/mercedes-benz-glc-coupe-ID7GCXDn.html": {
+            "firstSeen": "2020-09-19T13:14:18.288Z",
+            "verdict": "EXPENSIVE"
+        },
+        "https://www.autovit.ro/anunt/mercedes-benz-glc-coupe-ID7GCXnP.html": {
+            "firstSeen": "2020-09-19T13:14:18.288Z",
+            "verdict": "NO_DETAILS"
+        },
+        "https://www.autovit.ro/anunt/mercedes-benz-glc-coupe-ID7GCLaa.html": {
+            "firstSeen": "2020-09-19T13:14:18.289Z",
+            "verdict": "NO"
+        },
+        "https://www.autovit.ro/anunt/mercedes-benz-glc-coupe-ID7GCJL1.html": {
+            "firstSeen": "2020-09-19T13:14:18.289Z",
+            "verdict": "NO"
+        },
+        "https://www.autovit.ro/anunt/mercedes-benz-glc-coupe-ID7GCIRb.html": {
+            "firstSeen": "2020-09-19T13:14:18.290Z",
+            "verdict": "MAYBE"
+        },
+        "https://www.autovit.ro/anunt/mercedes-benz-glc-coupe-ID7GCHNA.html": {
+            "firstSeen": "2020-09-19T13:14:18.290Z",
+            "verdict": "NO"
+        },
+        "https://www.autovit.ro/anunt/mercedes-benz-glc-coupe-glc220-ID7GCtuY.html": {
+            "firstSeen": "2020-09-19T13:14:18.291Z",
+            "verdict": "NO"
+        },
+        "https://www.autovit.ro/anunt/mercedes-benz-glc-coupe-ID7GBQHg.html": {
+            "firstSeen": "2020-09-19T13:14:18.291Z",
+            "verdict": "NO"
+        },
+        "https://www.autovit.ro/anunt/mercedes-benz-glc-coupe-ID7GBsLD.html": {
+            "firstSeen": "2020-09-19T13:14:18.292Z",
+            "verdict": "NO"
+        },
+        "https://www.autovit.ro/anunt/mercedes-benz-glc-coupe-ID7GBkvV.html": {
+            "firstSeen": "2020-09-19T13:14:18.292Z",
+            "verdict": "NO"
+        },
+        "https://www.autovit.ro/anunt/mercedes-benz-glc-coupe-ID7GB4k7.html": {
+            "firstSeen": "2020-09-19T13:14:18.293Z",
+            "verdict": "NO"
+        },
+        "https://www.autovit.ro/anunt/mercedes-benz-glc-coupe-ID7GB3KR.html": {
+            "firstSeen": "2020-09-19T13:14:18.294Z",
+            "verdict": "NO"
+        },
+        "https://www.autovit.ro/anunt/mercedes-benz-glc-coupe-ID7GAZ6z.html": {
+            "firstSeen": "2020-09-19T13:14:18.294Z",
+            "verdict": "NO"
+        },
+        "https://www.autovit.ro/anunt/mercedes-benz-glc-coupe-ID7GAH9Y.html": {
+            "firstSeen": "2020-09-19T13:14:18.295Z",
+            "verdict": "NO"
+        },
+        "https://www.autovit.ro/anunt/mercedes-benz-glc-coupe-glc300-ID7GAyDt.html": {
+            "firstSeen": "2020-09-19T13:14:18.295Z",
+            "verdict": "NO"
+        },
+        "https://www.autovit.ro/anunt/mercedes-benz-glc-coupe-ID7GA9qq.html": {
+            "firstSeen": "2020-09-19T13:14:18.296Z",
+            "verdict": "NO"
+        },
+        "https://www.autovit.ro/anunt/mercedes-benz-glc-coupe-ID7GA9o5.html": {
+            "firstSeen": "2020-09-19T13:14:18.297Z",
+            "verdict": "NO"
+        },
+        "https://www.autovit.ro/anunt/mercedes-benz-glc-coupe-ID7GA9o4.html": {
+            "firstSeen": "2020-09-19T13:14:18.297Z",
+            "verdict": "NO"
+        },
+        "https://www.autovit.ro/anunt/mercedes-benz-glc-coupe-ID7GA54X.html": {
+            "firstSeen": "2020-09-19T13:14:18.298Z",
+            "verdict": "NO"
+        },
+        "https://www.autovit.ro/anunt/mercedes-benz-glc-coupe-ID7GA4Q2.html": {
+            "firstSeen": "2020-09-19T13:14:18.298Z",
+            "verdict": "NO"
+        },
+        "https://www.autovit.ro/anunt/mercedes-benz-glc-coupe-ID7GzFja.html": {
+            "firstSeen": "2020-09-19T13:14:18.299Z",
+            "verdict": "NO"
+        },
+        "https://www.autovit.ro/anunt/mercedes-benz-glc-coupe-ID7GzAkE.html": {
+            "firstSeen": "2020-09-19T13:14:18.300Z",
+            "verdict": "NO"
         }
     }
 }
