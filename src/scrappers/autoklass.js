@@ -37,9 +37,7 @@ const extractCarUrls = (html, carModel = "glc") => {
   return allUrls ? Array.from(new Set(allUrls)) : [];
 };
 
-const scrapper = (config = {}) => {
-  const carConfig = config.car;
-
+const scrapper = (carConfig = {}) => {
   const fetchUrlsFromPage = (pageNo = 1) => {
     return axiosInstance
       .request({

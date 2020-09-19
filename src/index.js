@@ -3,6 +3,7 @@ const { JsonDB } = require("node-json-db");
 const { Config } = require("node-json-db/dist/lib/JsonDBConfig");
 const config = require("./config");
 const autoklass = require("./scrappers/autoklass.js");
+const { sleep } = require("./lib/utils");
 
 process.env.NODE_TLS_REJECT_UNAUTHORIZED = "0"; // allow any https certificate
 
@@ -10,30 +11,41 @@ const db = new JsonDB(
   new Config(path.join(__dirname, "../db.json"), true, true, "|")
 );
 
-const findNewCars = () => {
-  const autoklassScrapper = autoklass.scrapper(config);
-  autoklassScrapper.scrapCarUrls().then((urls) => {
-    let newUrls = 0;
+const processUrls = (urls) => {
+  let newUrls = 0;
 
-    urls.forEach((url) => {
-      let urlData;
-      const urlPath = `|urls|${url}`;
-      try {
-        urlData = db.getData(urlPath);
-        urlData.lastSeen = new Date().toISOString();
-        db.push(urlPath, urlData);
-      } catch (err) {
-        urlData = { firstSeen: new Date().toISOString() };
-        db.push(urlPath, urlData);
-      }
-      if (!urlData.verdict) {
-        console.log(url);
-        newUrls++;
-      }
-    });
-
-    console.log(`New urls: ${newUrls}`);
+  urls.forEach((url) => {
+    let urlData;
+    const urlPath = `|urls|${url}`;
+    try {
+      urlData = db.getData(urlPath);
+      urlData.lastSeen = new Date().toISOString();
+      db.push(urlPath, urlData);
+    } catch (err) {
+      urlData = { firstSeen: new Date().toISOString() };
+      db.push(urlPath, urlData);
+    }
+    if (!urlData.verdict) {
+      console.log(url);
+      newUrls++;
+    }
   });
+
+  console.log(`New urls: ${newUrls}`);
+};
+
+const findNewCarsOnAutoklass = (model) => {
+  console.log(`Search on Autoklass for ${model}`);
+  const autoklassScrapper = autoklass.scrapper({ ...config.car, model });
+  return autoklassScrapper.scrapCarUrls().then(processUrls);
+};
+
+const findNewCars = async () => {
+  await findNewCarsOnAutoklass("glc");
+  await sleep(1500);
+  await findNewCarsOnAutoklass("glcCoupe");
+  await findNewCarsOnAutoklass("gle");
+  await findNewCarsOnAutoklass("gleCoupe");
 };
 
 const visitNewCars = () => {
