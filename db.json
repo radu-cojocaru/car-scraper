@@ -572,7 +572,52 @@
         },
         "https://plus-auto.ro/anunt/1568": {
             "firstSeen": "2020-09-19T08:17:38.067Z",
+            "verdict": "NO",
+            "lastSeen": "2020-09-19T08:21:02.749Z"
+        },
+        "https://plus-auto.ro/anunt/1729": {
+            "firstSeen": "2020-09-19T08:21:00.216Z",
             "verdict": "NO"
+        },
+        "https://plus-auto.ro/anunt/1728": {
+            "firstSeen": "2020-09-19T08:21:00.217Z",
+            "verdict": "NO"
+        },
+        "https://plus-auto.ro/anunt/1725": {
+            "firstSeen": "2020-09-19T08:21:00.223Z",
+            "verdict": "NO"
+        },
+        "https://plus-auto.ro/anunt/1724": {
+            "firstSeen": "2020-09-19T08:21:00.224Z",
+            "verdict": "NO"
+        },
+        "https://plus-auto.ro/anunt/1671": {
+            "firstSeen": "2020-09-19T08:21:00.224Z",
+            "verdict": "NO"
+        },
+        "https://plus-auto.ro/anunt/1641": {
+            "firstSeen": "2020-09-19T08:21:00.225Z",
+            "verdict": "NO"
+        },
+        "https://plus-auto.ro/anunt/1564": {
+            "firstSeen": "2020-09-19T08:21:00.226Z",
+            "verdict": "NO"
+        },
+        "https://plus-auto.ro/anunt/1563": {
+            "firstSeen": "2020-09-19T08:21:00.226Z",
+            "verdict": "NO"
+        },
+        "https://plus-auto.ro/anunt/1480": {
+            "firstSeen": "2020-09-19T08:21:00.227Z",
+            "verdict": "NO"
+        },
+        "https://plus-auto.ro/anunt/1158": {
+            "firstSeen": "2020-09-19T08:21:00.227Z",
+            "verdict": "ERROR"
+        },
+        "https://plus-auto.ro/anunt/1157": {
+            "firstSeen": "2020-09-19T08:21:00.227Z",
+            "verdict": "ERROR"
         }
     }
 }

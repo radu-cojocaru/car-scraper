@@ -36,21 +36,21 @@ const processUrls = (urls) => {
   console.log(`New urls: ${newUrls}`);
 };
 
-const findNewCarsOnAutoklass = async (model) => {
+const scrapAutoklass = async (model) => {
   console.log(`Search on Autoklass for ${model}`);
   const scrapper = autoklass.scrapper({ ...config.car, model });
   await scrapper.scrapCarUrls().then(processUrls);
   return sleep();
 };
 
-const findNewCarsOnElite = async (model = "glc") => {
+const scrapElite = async (model = "glc") => {
   console.log(`Search on elite-cars-leasing.ro for ${model}`);
   const scrapper = eliteCarsLeasing.scrapper({ ...config.car, model });
   await scrapper.scrapCarUrls().then(processUrls);
   return sleep();
 };
 
-const findNewCarsOnPlusAuto = async (model = "glc") => {
+const scrapPlusAuto = async (model = "glc") => {
   console.log(`Search on plus-auto.ro for ${model}`);
   const scrapper = plusAuto.scrapper({ ...config.car, model });
   await scrapper.scrapCarUrls().then(processUrls);
@@ -61,15 +61,18 @@ const findNewCarsOnPlusAuto = async (model = "glc") => {
 const findNewCars = async () => {
   const { mercedesModels } = config;
 
-  // await findNewCarsOnAutoklass("glc");
-  // await findNewCarsOnAutoklass("glcCoupe");
-  // await findNewCarsOnAutoklass("gle");
-  // await findNewCarsOnAutoklass("gleCoupe");
+  // await scrapAutoklass(mercedesModels.glc);
+  // await scrapAutoklass(mercedesModels.glcCoupe);
+  // await scrapAutoklass(mercedesModels.gle);
+  // await scrapAutoklass(mercedesModels.gleCoupe);
+  //
+  // await scrapElite(mercedesModels.glc);
+  // await scrapElite(mercedesModels.gle);
 
-  await findNewCarsOnElite(mercedesModels.glc);
-  await findNewCarsOnElite(mercedesModels.gle);
-
-  // await findNewCarsOnPlusAuto(mercedesModels.glcCoupe);
+  // await scrapPlusAuto(mercedesModels.glc);
+  // await scrapPlusAuto(mercedesModels.glcCoupe);
+  await scrapPlusAuto(mercedesModels.gle);
+  await scrapPlusAuto(mercedesModels.gleCoupe);
 };
 
 const visitNewCars = () => {
