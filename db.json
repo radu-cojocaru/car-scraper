@@ -188,7 +188,7 @@
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC_Coupe/GLC_220_d_4MATIC_Coupe--420010": {
             "firstSeen": "2020-09-14T18:35:59.405Z",
-            "verdict": "MAYBE",
+            "verdict": "NO",
             "price": "63356",
             "lastSeen": "2020-09-19T11:45:52.696Z"
         },
@@ -199,7 +199,7 @@
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC_Coupe/GLC_300_e_4MATIC_Coupe--416686": {
             "firstSeen": "2020-09-14T18:35:59.406Z",
-            "verdict": "MAYBE",
+            "verdict": "NO",
             "lastSeen": "2020-09-19T11:45:52.697Z"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC_Coupe/GLC_300_e_4MATIC_Coupe--415216": {
@@ -282,7 +282,7 @@
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE/350_d_4MATIC--420459": {
             "firstSeen": "2020-09-18T15:01:11.623Z",
-            "verdict": "MAYBE",
+            "verdict": "NO",
             "lastSeen": "2020-09-19T11:45:54.335Z"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE/400_d_4MATIC--420806": {
@@ -382,7 +382,7 @@
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE/300_d_4MATIC--409684": {
             "firstSeen": "2020-09-18T15:01:11.628Z",
-            "verdict": "MAYBE",
+            "verdict": "NO",
             "lastSeen": "2020-09-19T11:45:54.343Z"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE/400_d_4MATIC--406511": {
@@ -991,7 +991,8 @@
         },
         "https://www.autovit.ro/anunt/mercedes-benz-glc-ID7GCyvv.html#0c7a2262e4": {
             "firstSeen": "2020-09-19T11:12:58.313Z",
-            "verdict": "MAYBE"
+            "verdict": "MAYBE",
+            "price": "56990"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-glc-ID7GCy4y.html#0c7a2262e4": {
             "verdict": "NO"
@@ -1149,7 +1150,8 @@
         },
         "https://www.autovit.ro/anunt/mercedes-benz-glc-ID7GDoc2.html": {
             "firstSeen": "2020-09-19T12:44:43.270Z",
-            "verdict": "MAYBE"
+            "verdict": "NO",
+            "price": "82098"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-glc-ID7GDnWG.html": {
             "firstSeen": "2020-09-19T12:44:43.270Z",
@@ -1299,7 +1301,7 @@
         },
         "https://www.autovit.ro/anunt/mercedes-benz-glc-coupe-ID7GCIRb.html": {
             "firstSeen": "2020-09-19T13:14:18.290Z",
-            "verdict": "MAYBE"
+            "verdict": "NO"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-glc-coupe-ID7GCHNA.html": {
             "firstSeen": "2020-09-19T13:14:18.290Z",
