@@ -4,12 +4,12 @@ const axios = require("axios");
 // https://elite-cars-leasing.ro/collections/clasa-gle
 // https://elite-cars-leasing.ro/collections/clasa-glc
 
-const baseURL = "https://elite-cars-leasing.ro/collections/";
+const baseURL = "https://elite-cars-leasing.ro";
 const axiosInstance = axios.create({ baseURL });
 
 const modelSubPath = {
-  glc: "clasa-glc",
-  gle: "clasa-gle",
+  glc: "/collections/clasa-glc",
+  gle: "/collections/clasa-gle",
 };
 
 const modelUrlRegexp = {
@@ -21,9 +21,7 @@ const extractCarUrls = (html, carModel = "glc") => {
   let regexp = modelUrlRegexp[carModel];
   const allUrls = html.match(regexp);
   return allUrls
-    ? Array.from(new Set(allUrls)).map(
-        (url) => `https://elite-cars-leasing.ro/${url}`
-      )
+    ? Array.from(new Set(allUrls)).map((url) => `${baseURL}${url}`)
     : [];
 };
 
