@@ -2,11 +2,13 @@ const path = require("path");
 const { JsonDB } = require("node-json-db");
 const { Config } = require("node-json-db/dist/lib/JsonDBConfig");
 const config = require("./config");
+const { sleep } = require("./lib/utils");
+
 const autoklass = require("./scrappers/autoklass.js");
 const eliteCarsLeasing = require("./scrappers/eliteCarsLeasing");
 const plusAuto = require("./scrappers/plusAuto");
 const autovit = require("./scrappers/autovit");
-const { sleep } = require("./lib/utils");
+const autoSchunn = require("./scrappers/autoSchunn.js");
 
 process.env.NODE_TLS_REJECT_UNAUTHORIZED = "0"; // allow any https certificate
 
@@ -62,13 +64,15 @@ const countCars = () => {
 const findNewCars = async () => {
   const scrappers = {
     autoklass,
+    autoSchunn,
     autovit,
     eliteCarsLeasing,
     plusAuto,
   };
+  const models = Object.keys(config.mercedesModels);
 
   for (let scrapperKey of Object.keys(scrappers)) {
-    for (let model of Object.keys(config.mercedesModels)) {
+    for (let model of models) {
       await scrap(scrappers[scrapperKey], model);
     }
   }
