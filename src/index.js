@@ -69,8 +69,8 @@ const findNewCars = async () => {
     eliteCarsLeasing,
     plusAuto,
   };
-  const models = Object.keys(config.mercedesModels);
-  // const models = ["glcCoupe"];
+  // const models = Object.keys(config.mercedesModels);
+  const models = ["glc", "glcCoupe"];
 
   for (let scrapperKey of Object.keys(scrappers)) {
     for (let model of models) {
