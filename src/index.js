@@ -5,6 +5,7 @@ const config = require("./config");
 const autoklass = require("./scrappers/autoklass.js");
 const eliteCarsLeasing = require("./scrappers/eliteCarsLeasing");
 const plusAuto = require("./scrappers/plusAuto");
+const autovit = require("./scrappers/autovit");
 const { sleep } = require("./lib/utils");
 
 process.env.NODE_TLS_REJECT_UNAUTHORIZED = "0"; // allow any https certificate
@@ -36,25 +37,14 @@ const processUrls = (urls) => {
   console.log(`New urls: ${newUrls}`);
 };
 
-const scrapAutoklass = async (model) => {
-  console.log(`Search on Autoklass for ${model}`);
-  const scrapper = autoklass.scrapper({ ...config.car, model });
-  await scrapper.scrapCarUrls().then(processUrls);
-  return sleep();
-};
-
-const scrapElite = async (model = "glc") => {
-  console.log(`Search on elite-cars-leasing.ro for ${model}`);
-  const scrapper = eliteCarsLeasing.scrapper({ ...config.car, model });
-  await scrapper.scrapCarUrls().then(processUrls);
-  return sleep();
-};
-
-const scrapPlusAuto = async (model = "glc") => {
-  console.log(`Search on plus-auto.ro for ${model}`);
-  const scrapper = plusAuto.scrapper({ ...config.car, model });
-  await scrapper.scrapCarUrls().then(processUrls);
-  // await scrapper.scrapCarUrls().then((urls) => console.log(urls));
+const scrap = async ({ website, scrapper }, model) => {
+  console.log(`Search on ${website} for ${model}`);
+  await scrapper({ ...config.car, model })
+    .scrapCarUrls()
+    .then((urls) => {
+      // console.log(urls);
+      processUrls(urls);
+    });
   return sleep();
 };
 
@@ -70,20 +60,18 @@ const countCars = () => {
 };
 
 const findNewCars = async () => {
-  const { mercedesModels } = config;
+  const scrappers = {
+    autoklass,
+    autovit,
+    eliteCarsLeasing,
+    plusAuto,
+  };
 
-  // await scrapAutoklass(mercedesModels.glc);
-  // await scrapAutoklass(mercedesModels.glcCoupe);
-  // await scrapAutoklass(mercedesModels.gle);
-  // await scrapAutoklass(mercedesModels.gleCoupe);
-  //
-  // await scrapElite(mercedesModels.glc);
-  // await scrapElite(mercedesModels.gle);
-
-  // await scrapPlusAuto(mercedesModels.glc);
-  // await scrapPlusAuto(mercedesModels.glcCoupe);
-  // await scrapPlusAuto(mercedesModels.gle);
-  // await scrapPlusAuto(mercedesModels.gleCoupe);
+  for (let scrapperKey of Object.keys(scrappers)) {
+    for (let model of Object.keys(config.mercedesModels)) {
+      await scrap(scrappers[scrapperKey], model);
+    }
+  }
 };
 
 countCars();

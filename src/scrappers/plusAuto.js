@@ -41,4 +41,5 @@ const scrapper = (carConfig = {}) => ({
 
 module.exports = {
   scrapper,
+  website: baseURL,
 };
