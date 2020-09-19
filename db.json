@@ -117,7 +117,7 @@
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC/300_d_4MATIC--413852": {
             "firstSeen": "2020-09-10T12:50:51.670Z",
             "lastSeen": "2020-09-19T11:45:51.389Z",
-            "verdict": "MAYBE",
+            "verdict": "EXPENSIVE",
             "price": "67003"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC/300_4MATIC--413714": {
@@ -153,7 +153,7 @@
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC/300_4MATIC--420769": {
             "firstSeen": "2020-09-10T12:50:51.671Z",
             "lastSeen": "2020-09-19T11:45:51.391Z",
-            "verdict": "MAYBE",
+            "verdict": "NO",
             "price": "56981"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC/250_4MATIC--420507": {
