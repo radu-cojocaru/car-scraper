@@ -58,6 +58,17 @@ const scrapPlusAuto = async (model = "glc") => {
   return sleep();
 };
 
+const visitNewCars = () => {
+  const urlsData = db.getData("|urls");
+  const urls = Object.keys(urlsData).filter((url) => !urlsData[url].visited);
+  console.log(urls);
+};
+
+const countCars = () => {
+  const urlsData = db.getData("|urls");
+  console.log("Total urls: ", Object.keys(urlsData).length);
+};
+
 const findNewCars = async () => {
   const { mercedesModels } = config;
 
@@ -71,20 +82,9 @@ const findNewCars = async () => {
 
   // await scrapPlusAuto(mercedesModels.glc);
   // await scrapPlusAuto(mercedesModels.glcCoupe);
-  await scrapPlusAuto(mercedesModels.gle);
-  await scrapPlusAuto(mercedesModels.gleCoupe);
+  // await scrapPlusAuto(mercedesModels.gle);
+  // await scrapPlusAuto(mercedesModels.gleCoupe);
 };
 
-const visitNewCars = () => {
-  const urlsData = db.getData("|urls");
-  const urls = Object.keys(urlsData).filter((url) => !urlsData[url].visited);
-  console.log(urls);
-};
-
-const countCars = () => {
-  const urlsData = db.getData("|urls");
-  console.log(Object.keys(urlsData).length);
-};
-
-findNewCars();
-// countCars();
+countCars();
+findNewCars().then(countCars);
