@@ -5,6 +5,7 @@ const baseURL = "https://www.auto-schunn.ro";
 const axiosInstance = axios.create({ baseURL });
 
 const modelVal = {
+  glb: "glb",
   glc: "glc",
   gle: "gle",
 };

@@ -63,8 +63,8 @@ const countCars = () => {
 
 const findNewCars = async () => {
   const scrappers = {
-    autoklass,
-    // autoSchunn,
+    // autoklass,
+    autoSchunn,
     // autovit,
     // eliteCarsLeasing,
     // plusAuto,

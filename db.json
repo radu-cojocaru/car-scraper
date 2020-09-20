@@ -1464,19 +1464,56 @@
             "verdict": "NO"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLB/220_d_4M--415688": {
-            "firstSeen": "2020-09-20T19:42:02.228Z"
+            "firstSeen": "2020-09-20T19:42:02.228Z",
+            "verdict": "NO"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLB/250_4M--415689": {
-            "firstSeen": "2020-09-20T19:42:02.229Z"
+            "firstSeen": "2020-09-20T19:42:02.229Z",
+            "verdict": "NO"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLB/250_4M--415608": {
-            "firstSeen": "2020-09-20T19:42:02.230Z"
+            "firstSeen": "2020-09-20T19:42:02.230Z",
+            "verdict": "NO"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLB/250_4M--415473": {
-            "firstSeen": "2020-09-20T19:42:02.231Z"
+            "firstSeen": "2020-09-20T19:42:02.231Z",
+            "verdict": "NO"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLB/250_4M--415434": {
-            "firstSeen": "2020-09-20T19:42:02.232Z"
+            "firstSeen": "2020-09-20T19:42:02.232Z",
+            "verdict": "NO"
+        },
+        "https://www.auto-schunn.ro/detaliu-auto-142444817/Mercedes-Benz-GLB-200-4M-OFF-ROAD-keyless-360-NIGHT-oferta-detaliata.htm": {
+            "firstSeen": "2020-09-20T21:24:17.329Z",
+            "verdict": "NO"
+        },
+        "https://www.auto-schunn.ro/detaliu-auto-143823511/Mercedes-Benz-GLB-220-d-4Matic-AMG-THERMOTRONIC-PREMIUM-NIGHT-oferta-detaliata.htm": {
+            "firstSeen": "2020-09-20T21:24:17.333Z",
+            "verdict": "NO"
+        },
+        "https://www.auto-schunn.ro/detaliu-auto-143192907/Mercedes-Benz-GLB-220-d-4M-AMG-PREMIUM-NIGHT-MULTIBEAM-360gr-oferta-detaliata.htm": {
+            "firstSeen": "2020-09-20T21:24:17.334Z",
+            "verdict": "NO"
+        },
+        "https://www.auto-schunn.ro/detaliu-auto-143857778/Mercedes-Benz-GLB-250-4M-AMG-THERMOTRONIC-PREMIUM-LED-MEMORY-oferta-detaliata.htm": {
+            "firstSeen": "2020-09-20T21:24:17.335Z",
+            "verdict": "NO"
+        },
+        "https://www.auto-schunn.ro/detaliu-auto-143162611/Mercedes-Benz-GLB-250-4M-PREMIUM-PROGRESSIVE-THERMOTR-PANO-oferta-detaliata.htm": {
+            "firstSeen": "2020-09-20T21:24:17.337Z",
+            "verdict": "NO"
+        },
+        "https://www.auto-schunn.ro/detaliu-auto-142378455/Mercedes-Benz-GLB-250-4Matic-AMG-pano-NAVI-thermotronic-360gr-oferta-detaliata.htm": {
+            "firstSeen": "2020-09-20T21:24:17.338Z",
+            "verdict": "NO"
+        },
+        "https://www.auto-schunn.ro/detaliu-auto-142291013/Mercedes-Benz-GLB-250-4Matic-AMG-PANO-NAVI-THERMOTRONIC-360gr-oferta-detaliata.htm": {
+            "firstSeen": "2020-09-20T21:24:17.338Z",
+            "verdict": "NO"
+        },
+        "https://www.auto-schunn.ro/detaliu-auto-142508670/Mercedes-Benz-GLB-250-4M-EDITION-1-TEHNIC-PREMIUM-DISTRONIC-oferta-detaliata.htm": {
+            "firstSeen": "2020-09-20T21:24:17.339Z",
+            "verdict": "NO"
         }
     }
 }
