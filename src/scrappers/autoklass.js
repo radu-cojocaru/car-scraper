@@ -7,6 +7,7 @@ const baseURL = "https://www.autoklass-market.ro";
 const axiosInstance = axios.create({ baseURL });
 
 const modelSubPath = {
+  glb: "/masini/Mercedes-Benz/GLB",
   glc: "/masini/Mercedes-Benz/GLC",
   glcCoupe: "/masini/Mercedes-Benz/GLC_Coupe",
   gle: "/masini/Mercedes-Benz/GLE",
@@ -14,6 +15,7 @@ const modelSubPath = {
 };
 
 const modelUrlRegexp = {
+  glb: /https:\/\/www.autoklass-market.ro\/masini\/Mercedes-Benz\/GLB\/([A-Za-z0-9-_])+/g,
   glc: /https:\/\/www.autoklass-market.ro\/masini\/Mercedes-Benz\/GLC\/([A-Za-z0-9-_])+/g,
   glcCoupe: /https:\/\/www.autoklass-market.ro\/masini\/Mercedes-Benz\/GLC_Coupe\/([A-Za-z0-9-_])+/g,
   gle: /https:\/\/www.autoklass-market.ro\/masini\/Mercedes-Benz\/GLE\/([A-Za-z0-9-_])+/g,
