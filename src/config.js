@@ -1,5 +1,6 @@
 module.exports = {
   mercedesModels: {
+    glb: "glb",
     glc: "glc",
     glcCoupe: "glcCoupe",
     gle: "gle",

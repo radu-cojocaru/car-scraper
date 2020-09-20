@@ -9,6 +9,7 @@ const subPathForModel = (model) =>
   `parc-auto/autoturisme/comanda/%7B%22make%22:%22mercedes-benz%22,%22model%22:%22${model}%22,%22year_from%22:%2208.2019%22%7D`;
 
 const modelSubPath = {
+  glb: subPathForModel("glb"),
   glc: subPathForModel("glc"),
   glcCoupe: subPathForModel("glc-coupe"),
   gle: subPathForModel("gle"),

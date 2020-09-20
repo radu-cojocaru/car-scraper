@@ -64,10 +64,10 @@ const countCars = () => {
 const findNewCars = async () => {
   const scrappers = {
     // autoklass,
-    autoSchunn,
+    // autoSchunn,
     // autovit,
     // eliteCarsLeasing,
-    // plusAuto,
+    plusAuto,
   };
   // const models = Object.keys(config.mercedesModels);
   const models = ["glb"];
