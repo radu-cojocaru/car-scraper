@@ -65,9 +65,9 @@ const findNewCars = async () => {
   const scrappers = {
     // autoklass,
     // autoSchunn,
-    // autovit,
+    autovit,
     // eliteCarsLeasing,
-    plusAuto,
+    // plusAuto,
   };
   // const models = Object.keys(config.mercedesModels);
   const models = ["glb"];

@@ -9,6 +9,7 @@ const subPathForModel = (model) =>
   `autoturisme/mercedes-benz/${model}/de-la-2019/?search%5Border%5D=created_at_first%3Adesc`;
 
 const modelSubPath = {
+  glb: subPathForModel("glb"),
   glc: subPathForModel("glc"),
   glcCoupe: subPathForModel("glc-coupe"),
   gle: subPathForModel("gle"),
