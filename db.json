@@ -1544,10 +1544,12 @@
             "verdict": "NO"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-glb-ID7GDeeW.html": {
-            "firstSeen": "2020-09-20T21:45:38.346Z"
+            "firstSeen": "2020-09-20T21:45:38.346Z",
+            "verdict": "NO"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-glb-ID7GCYJN.html": {
-            "firstSeen": "2020-09-20T21:45:38.346Z"
+            "firstSeen": "2020-09-20T21:45:38.346Z",
+            "verdict": "NO"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-glb-ID7GCYJe.html": {
             "firstSeen": "2020-09-20T21:45:38.347Z"
