@@ -63,14 +63,14 @@ const countCars = () => {
 
 const findNewCars = async () => {
   const scrappers = {
-    // autoklass,
-    // autoSchunn,
+    autoklass,
+    autoSchunn,
     autovit,
-    // eliteCarsLeasing,
-    // plusAuto,
+    eliteCarsLeasing,
+    plusAuto,
   };
   // const models = Object.keys(config.mercedesModels);
-  const models = ["glb"];
+  const models = ["glb", "glc", "glcCoupe"];
 
   for (let scrapperKey of Object.keys(scrappers)) {
     for (let model of models) {

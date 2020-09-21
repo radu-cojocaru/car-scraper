@@ -62,6 +62,10 @@ const scrapper = (carConfig = {}) => {
 
   return {
     async scrapCarUrls() {
+      if (!modelSubPath[carConfig.model]) {
+        return [];
+      }
+
       let page = 1;
       let stop = false;
       let allCarUrls = [];

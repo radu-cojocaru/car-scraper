@@ -26,6 +26,10 @@ const extractCarUrls = (html, carModel = "glc") => {
 
 const scrapper = (carConfig = {}) => ({
   async scrapCarUrls() {
+    if (!modelSubPath[carConfig.model]) {
+      return [];
+    }
+
     return axiosInstance
       .request({
         url: modelSubPath[carConfig.model],
