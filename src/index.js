@@ -78,30 +78,30 @@ const findNewCars = async () => {
 
   const { mercedesModels } = config;
 
-  await scrap(autoklass, mercedesModels.glb);
-  await scrap(autoklass, mercedesModels.glc);
-  await scrap(autoklass, mercedesModels.glcCoupe);
-  await scrap(autoklass, mercedesModels.gle);
-  await scrap(autoklass, mercedesModels.gleCoupe);
-
-  await scrap(autoSchunn, mercedesModels.glb);
-  await scrap(autoSchunn, mercedesModels.glc);
-  await scrap(autoSchunn, mercedesModels.gle);
-
-  await scrap(autovit, mercedesModels.glb);
-  await scrap(autovit, mercedesModels.glc);
-  await scrap(autovit, mercedesModels.glcCoupe);
-  // await scrap(autovit, mercedesModels.gle);
-  await scrap(autovit, mercedesModels.gleCoupe);
-
-  await scrap(eliteCarsLeasing, mercedesModels.glc);
-  await scrap(eliteCarsLeasing, mercedesModels.gle);
-
-  await scrap(plusAuto, mercedesModels.glb);
-  await scrap(plusAuto, mercedesModels.glc);
-  await scrap(plusAuto, mercedesModels.glcCoupe);
-  await scrap(plusAuto, mercedesModels.gle);
-  await scrap(plusAuto, mercedesModels.gleCoupe);
+  // await scrap(autoklass, mercedesModels.glb);
+  // await scrap(autoklass, mercedesModels.glc);
+  // await scrap(autoklass, mercedesModels.glcCoupe);
+  // await scrap(autoklass, mercedesModels.gle);
+  // await scrap(autoklass, mercedesModels.gleCoupe);
+  //
+  // await scrap(autoSchunn, mercedesModels.glb);
+  // await scrap(autoSchunn, mercedesModels.glc);
+  // await scrap(autoSchunn, mercedesModels.gle);
+  //
+  // await scrap(autovit, mercedesModels.glb);
+  // await scrap(autovit, mercedesModels.glc);
+  // await scrap(autovit, mercedesModels.glcCoupe);
+  await scrap(autovit, mercedesModels.gle);
+  // await scrap(autovit, mercedesModels.gleCoupe);
+  //
+  // await scrap(eliteCarsLeasing, mercedesModels.glc);
+  // await scrap(eliteCarsLeasing, mercedesModels.gle);
+  //
+  // await scrap(plusAuto, mercedesModels.glb);
+  // await scrap(plusAuto, mercedesModels.glc);
+  // await scrap(plusAuto, mercedesModels.glcCoupe);
+  // await scrap(plusAuto, mercedesModels.gle);
+  // await scrap(plusAuto, mercedesModels.gleCoupe);
 };
 
 countCars();

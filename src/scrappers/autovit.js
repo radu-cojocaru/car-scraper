@@ -6,13 +6,13 @@ const baseURL = "https://www.autovit.ro";
 const axiosInstance = axios.create({ baseURL });
 
 const subPathForModel = (model) =>
-  `autoturisme/mercedes-benz/${model}/de-la-2019/?search%5Border%5D=created_at_first%3Adesc`;
+  `autoturisme/mercedes-benz/${model}/de-la-2019/?search%5Bfilter_float_price%3Ato%5D=75000&search%5Border%5D=created_at_first%3Adesc`;
 
 const modelSubPath = {
   glb: subPathForModel("glb"),
-  glc: subPathForModel("glc"),
+  glc: subPathForModel("glc_classe"),
   glcCoupe: subPathForModel("glc-coupe"),
-  gle: subPathForModel("gle"),
+  gle: subPathForModel("gle_classe"),
   gleCoupe: subPathForModel("gle-coupe"),
 };
 
