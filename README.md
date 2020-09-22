@@ -14,4 +14,5 @@ npm install
 ```
 node index.js
 ```
- 
+
+![Sample run](./docs/sample-run.png)
