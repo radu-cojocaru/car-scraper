@@ -2124,6 +2124,70 @@
         "https://www.autovit.ro/anunt/mercedes-benz-gle-ID7GBFKl.html": {
             "firstSeen": "2020-09-22T19:50:04.024Z",
             "verdict": "NO"
+        },
+        "https://www.autovit.ro/anunt/mercedes-benz-gle-ID7GBqbM.html": {
+            "firstSeen": "2020-09-23T08:04:34.573Z",
+            "verdict": "MAYBE"
+        },
+        "https://www.autovit.ro/anunt/mercedes-benz-gle-ID7GB6jE.html": {
+            "firstSeen": "2020-09-23T08:04:34.575Z",
+            "verdict": "NO"
+        },
+        "https://www.autovit.ro/anunt/mercedes-benz-gle-ID7GB5zn.html": {
+            "firstSeen": "2020-09-23T08:04:34.581Z",
+            "verdict": "NO"
+        },
+        "https://www.autovit.ro/anunt/mercedes-benz-gle-ID7GB5vV.html": {
+            "firstSeen": "2020-09-23T08:04:34.582Z",
+            "verdict": "NO"
+        },
+        "https://www.autovit.ro/anunt/mercedes-benz-gle-ID7GB5vk.html": {
+            "firstSeen": "2020-09-23T08:04:34.583Z",
+            "verdict": "NO"
+        },
+        "https://www.autovit.ro/anunt/mercedes-benz-gle-ID7GADnm.html": {
+            "firstSeen": "2020-09-23T08:04:34.584Z",
+            "verdict": "NO"
+        },
+        "https://www.autovit.ro/anunt/mercedes-benz-gle-ID7GA9v9.html": {
+            "firstSeen": "2020-09-23T08:04:34.585Z",
+            "verdict": "NO"
+        },
+        "https://www.autovit.ro/anunt/mercedes-benz-gle-ID7GA9uz.html": {
+            "firstSeen": "2020-09-23T08:04:34.586Z",
+            "verdict": "NO"
+        },
+        "https://www.autovit.ro/anunt/mercedes-benz-gle-ID7GA9tZ.html": {
+            "firstSeen": "2020-09-23T08:04:34.587Z",
+            "verdict": "NO"
+        },
+        "https://www.autovit.ro/anunt/mercedes-benz-gle-ID7GA9tV.html": {
+            "firstSeen": "2020-09-23T08:04:34.588Z",
+            "verdict": "NO"
+        },
+        "https://www.autovit.ro/anunt/mercedes-benz-gle-ID7GA9sU.html": {
+            "firstSeen": "2020-09-23T08:04:34.589Z",
+            "verdict": "NO"
+        },
+        "https://www.autovit.ro/anunt/mercedes-benz-gle-ID7GA9sS.html": {
+            "firstSeen": "2020-09-23T08:04:34.589Z",
+            "verdict": "NO"
+        },
+        "https://www.autovit.ro/anunt/mercedes-benz-gle-ID7GzXvI.html": {
+            "firstSeen": "2020-09-23T08:04:34.590Z",
+            "verdict": "NO"
+        },
+        "https://www.autovit.ro/anunt/mercedes-benz-gle-ID7GzVTd.html": {
+            "firstSeen": "2020-09-23T08:04:34.591Z",
+            "verdict": "NO"
+        },
+        "https://www.autovit.ro/anunt/mercedes-benz-gle-ID7GyUIf.html": {
+            "firstSeen": "2020-09-23T08:04:34.592Z",
+            "verdict": "MAYBE"
+        },
+        "https://www.autovit.ro/anunt/mercedes-benz-gle-ID7Gta7p.html": {
+            "firstSeen": "2020-09-23T08:04:34.593Z",
+            "verdict": "NO"
         }
     }
 }
