@@ -3254,7 +3254,8 @@
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC_Coupe/GLC_200_4MATIC_Coupe--421828": {
             "firstSeen": "2020-10-16T12:45:34.496Z",
-            "lastSeen": "2020-10-19T07:07:58.630Z"
+            "lastSeen": "2020-10-19T07:07:58.630Z",
+            "verdict": "NO"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-gle-coupe-ID7GEzKA.html": {
             "firstSeen": "2020-10-16T12:45:49.447Z",
