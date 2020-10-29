@@ -2,14 +2,14 @@
     "urls": {
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC/200_4MATIC--419661": {
             "firstSeen": "2020-09-10T12:50:51.658Z",
-            "lastSeen": "2020-10-29T06:04:29.813Z",
+            "lastSeen": "2020-10-29T10:47:03.651Z",
             "verdict": "NO",
             "price": "55551",
             "lacks": "distronic plus"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC/300_e_4MATIC--420970": {
             "firstSeen": "2020-09-10T12:50:51.665Z",
-            "lastSeen": "2020-10-29T06:04:29.814Z",
+            "lastSeen": "2020-10-29T10:47:03.652Z",
             "verdict": "NO"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC/300_4MATIC_Coupe--420947": {
@@ -34,7 +34,7 @@
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC/200_4MATIC--418640": {
             "firstSeen": "2020-09-10T12:50:51.667Z",
-            "lastSeen": "2020-10-29T06:04:29.810Z",
+            "lastSeen": "2020-10-29T10:47:03.648Z",
             "verdict": "SOLD"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC/200_4MATIC--418639": {
@@ -44,7 +44,7 @@
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC/250_d_4MATIC--405352": {
             "firstSeen": "2020-09-10T12:50:51.667Z",
-            "lastSeen": "2020-10-29T06:04:29.815Z",
+            "lastSeen": "2020-10-29T10:47:03.654Z",
             "verdict": "NO"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC/200_d_4MATIC--419194": {
@@ -54,17 +54,17 @@
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC/200_4MATIC--419112": {
             "firstSeen": "2020-09-10T12:50:51.668Z",
-            "lastSeen": "2020-10-29T06:04:29.817Z",
+            "lastSeen": "2020-10-29T10:47:03.655Z",
             "verdict": "NO"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC/200_4MATIC--419663": {
             "firstSeen": "2020-09-10T12:50:51.668Z",
-            "lastSeen": "2020-10-29T06:04:29.818Z",
+            "lastSeen": "2020-10-29T10:47:03.656Z",
             "verdict": "NO"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC/200_d_4MATIC--419000": {
             "firstSeen": "2020-09-10T12:50:51.668Z",
-            "lastSeen": "2020-10-29T06:04:29.819Z",
+            "lastSeen": "2020-10-29T10:47:03.657Z",
             "verdict": "NO"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC/250_d_4MATIC--406325": {
@@ -86,27 +86,27 @@
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC/300_e_4MATIC--417349": {
             "firstSeen": "2020-09-10T12:50:51.669Z",
-            "lastSeen": "2020-10-29T06:04:29.820Z",
+            "lastSeen": "2020-10-29T10:47:03.658Z",
             "verdict": "NO"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC/220_d_4MATIC--416079": {
             "firstSeen": "2020-09-10T12:50:51.669Z",
-            "lastSeen": "2020-10-29T06:04:29.822Z",
+            "lastSeen": "2020-10-29T10:47:03.660Z",
             "verdict": "NO"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC/300_4MATIC--411359": {
             "firstSeen": "2020-09-10T12:50:51.669Z",
-            "lastSeen": "2020-10-29T06:04:29.823Z",
+            "lastSeen": "2020-10-29T10:47:03.661Z",
             "verdict": "NO"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC/300_4MATIC--414475": {
             "firstSeen": "2020-09-10T12:50:51.669Z",
-            "lastSeen": "2020-10-29T06:04:29.824Z",
+            "lastSeen": "2020-10-29T10:47:03.662Z",
             "verdict": "NO"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC/220_d_4MATIC--405898": {
             "firstSeen": "2020-09-10T12:50:51.669Z",
-            "lastSeen": "2020-10-29T06:04:29.825Z",
+            "lastSeen": "2020-10-29T10:47:03.663Z",
             "verdict": "NO"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC/300_4MATIC--413853": {
@@ -116,7 +116,7 @@
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC/300_d_4MATIC--413852": {
             "firstSeen": "2020-09-10T12:50:51.670Z",
-            "lastSeen": "2020-10-29T06:04:29.827Z",
+            "lastSeen": "2020-10-29T10:47:03.665Z",
             "verdict": "NO",
             "price": "67003"
         },
@@ -127,7 +127,7 @@
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC/250_d_4MATIC--406421": {
             "firstSeen": "2020-09-10T12:50:51.670Z",
-            "lastSeen": "2020-10-29T06:04:29.828Z",
+            "lastSeen": "2020-10-29T10:47:03.666Z",
             "verdict": "NO"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC/220_d_4MATIC--403697": {
@@ -137,7 +137,7 @@
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC/220_d_4MATIC--405896": {
             "firstSeen": "2020-09-10T12:50:51.670Z",
-            "lastSeen": "2020-10-29T06:04:29.804Z",
+            "lastSeen": "2020-10-29T10:47:03.640Z",
             "verdict": "NO"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC/250_d_4MATIC--407063": {
@@ -169,12 +169,12 @@
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC_Coupe/GLC_220_d_4MATIC_Coupe--420463": {
             "firstSeen": "2020-09-14T18:35:59.402Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:31.166Z"
+            "lastSeen": "2020-10-29T10:47:05.240Z"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC_Coupe/GLC_200_4MATIC_Coupe--420935": {
             "firstSeen": "2020-09-14T18:35:59.404Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:31.167Z"
+            "lastSeen": "2020-10-29T10:47:05.241Z"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC_Coupe/GLC_200_d_4MATIC_Coupe--420948": {
             "firstSeen": "2020-09-14T18:35:59.405Z",
@@ -184,7 +184,7 @@
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC_Coupe/GLC_220_d_4MATIC_Coupe--416099": {
             "firstSeen": "2020-09-14T18:35:59.405Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:31.175Z"
+            "lastSeen": "2020-10-29T10:47:05.248Z"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC_Coupe/GLC_220_d_4MATIC_Coupe--420010": {
             "firstSeen": "2020-09-14T18:35:59.405Z",
@@ -211,13 +211,13 @@
             "firstSeen": "2020-09-14T18:35:59.407Z",
             "verdict": "MAYBE",
             "price": "71783",
-            "lastSeen": "2020-10-29T06:04:31.176Z"
+            "lastSeen": "2020-10-29T10:47:05.250Z"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC/300_4MATIC--421179": {
             "firstSeen": "2020-09-18T08:43:31.510Z",
             "verdict": "MAYBE",
             "price": "61700",
-            "lastSeen": "2020-10-29T06:04:29.794Z"
+            "lastSeen": "2020-10-29T10:47:03.634Z"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC_Coupe/GLC_300_d_4MATIC_Coupe--420624": {
             "firstSeen": "2020-09-18T09:32:30.852Z",
@@ -258,12 +258,12 @@
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE/350_d_4MATIC--421089": {
             "firstSeen": "2020-09-18T15:01:11.621Z",
             "verdict": "EXPENSIVE",
-            "lastSeen": "2020-10-29T06:04:32.741Z"
+            "lastSeen": "2020-10-29T10:47:07.188Z"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE/350_d_4MATIC--417457": {
             "firstSeen": "2020-09-18T15:01:11.621Z",
             "verdict": "EXPENSIVE",
-            "lastSeen": "2020-10-29T06:04:32.743Z"
+            "lastSeen": "2020-10-29T10:47:07.191Z"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE/350_d_4MATIC--419613": {
             "firstSeen": "2020-09-18T15:01:11.622Z",
@@ -273,7 +273,7 @@
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE/300_d_4MATIC--419148": {
             "firstSeen": "2020-09-18T15:01:11.622Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:32.742Z"
+            "lastSeen": "2020-10-29T10:47:07.190Z"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE/400_d_4MATIC--416406": {
             "firstSeen": "2020-09-18T15:01:11.622Z",
@@ -298,7 +298,7 @@
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE/300_d_4MATIC--419579": {
             "firstSeen": "2020-09-18T15:01:11.623Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:32.745Z"
+            "lastSeen": "2020-10-29T10:47:07.192Z"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE/300_d_4MATIC--419585": {
             "firstSeen": "2020-09-18T15:01:11.624Z",
@@ -308,27 +308,27 @@
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE/300_d_4MATIC--420266": {
             "firstSeen": "2020-09-18T15:01:11.624Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:32.738Z"
+            "lastSeen": "2020-10-29T10:47:07.185Z"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE/400_d_4MATIC--409695": {
             "firstSeen": "2020-09-18T15:01:11.625Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:32.746Z"
+            "lastSeen": "2020-10-29T10:47:07.193Z"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE/400_d_4MATIC--416497": {
             "firstSeen": "2020-09-18T15:01:11.625Z",
             "verdict": "EXPENSIVE",
-            "lastSeen": "2020-10-29T06:04:32.747Z"
+            "lastSeen": "2020-10-29T10:47:07.194Z"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE/400_d_4MATIC--419633": {
             "firstSeen": "2020-09-18T15:01:11.625Z",
             "verdict": "EXPENSIVE",
-            "lastSeen": "2020-10-29T06:04:32.733Z"
+            "lastSeen": "2020-10-29T10:47:07.182Z"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE/400_d_4MATIC--419592": {
             "firstSeen": "2020-09-18T15:01:11.626Z",
             "verdict": "EXPENSIVE",
-            "lastSeen": "2020-10-29T06:04:32.748Z"
+            "lastSeen": "2020-10-29T10:47:07.196Z"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE/300_d_4MATIC--414249": {
             "firstSeen": "2020-09-18T15:01:11.626Z",
@@ -343,7 +343,7 @@
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE/300_d_4MATIC--419587": {
             "firstSeen": "2020-09-18T15:01:11.626Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:32.750Z"
+            "lastSeen": "2020-10-29T10:47:07.197Z"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE/300_d_4MATIC--419584": {
             "firstSeen": "2020-09-18T15:01:11.626Z",
@@ -358,7 +358,7 @@
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE/300_d_4MATIC--417467": {
             "firstSeen": "2020-09-18T15:01:11.627Z",
             "verdict": "EXPENSIVE",
-            "lastSeen": "2020-10-29T06:04:32.751Z"
+            "lastSeen": "2020-10-29T10:47:07.198Z"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE/300_d_4MATIC--408927": {
             "firstSeen": "2020-09-18T15:01:11.627Z",
@@ -368,27 +368,27 @@
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE/400_d_4MATIC--417317": {
             "firstSeen": "2020-09-18T15:01:11.627Z",
             "verdict": "EXPENSIVE",
-            "lastSeen": "2020-10-29T06:04:32.752Z"
+            "lastSeen": "2020-10-29T10:47:07.199Z"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE/350_d_4MATIC--417354": {
             "firstSeen": "2020-09-18T15:01:11.628Z",
             "verdict": "EXPENSIVE",
-            "lastSeen": "2020-10-29T06:04:32.754Z"
+            "lastSeen": "2020-10-29T10:47:07.202Z"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE/400_d_4MATIC--409808": {
             "firstSeen": "2020-09-18T15:01:11.628Z",
             "verdict": "EXPENSIVE",
-            "lastSeen": "2020-10-29T06:04:32.753Z"
+            "lastSeen": "2020-10-29T10:47:07.200Z"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE/300_d_4MATIC--409684": {
             "firstSeen": "2020-09-18T15:01:11.628Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:32.732Z"
+            "lastSeen": "2020-10-29T10:47:07.180Z"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE/400_d_4MATIC--406511": {
             "firstSeen": "2020-09-18T15:01:11.628Z",
             "verdict": "EXPENSIVE",
-            "lastSeen": "2020-10-29T06:04:32.755Z"
+            "lastSeen": "2020-10-29T10:47:07.203Z"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE/400_d_4MATIC--410014": {
             "firstSeen": "2020-09-18T15:01:11.629Z",
@@ -398,7 +398,7 @@
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE/300_d_4MATIC--406293": {
             "firstSeen": "2020-09-18T15:01:11.629Z",
             "verdict": "EXPENSIVE",
-            "lastSeen": "2020-10-29T06:04:32.757Z"
+            "lastSeen": "2020-10-29T10:47:07.204Z"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE/400_d_4MATIC--415444": {
             "firstSeen": "2020-09-18T15:01:11.629Z",
@@ -408,7 +408,7 @@
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE/400_d_4MATIC--410805": {
             "firstSeen": "2020-09-18T15:01:11.629Z",
             "verdict": "EXPENSIVE",
-            "lastSeen": "2020-10-29T06:04:32.758Z"
+            "lastSeen": "2020-10-29T10:47:07.205Z"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE/400_d_4MATIC--409703": {
             "firstSeen": "2020-09-18T15:01:11.629Z",
@@ -423,22 +423,22 @@
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE/350_d_4MATIC--421275": {
             "firstSeen": "2020-09-18T15:01:11.630Z",
             "verdict": "EXPENSIVE",
-            "lastSeen": "2020-10-29T06:04:32.725Z"
+            "lastSeen": "2020-10-29T10:47:07.173Z"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE/Mercedes-AMG__53_4MATIC": {
             "firstSeen": "2020-09-18T16:00:22.715Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:32.737Z"
+            "lastSeen": "2020-10-29T10:47:07.184Z"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE_Coupe/GLE_350_d_4MATIC_Coupe--421126": {
             "firstSeen": "2020-09-18T16:02:53.234Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:34.539Z"
+            "lastSeen": "2020-10-29T10:47:08.896Z"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE_Coupe/GLE_400_d_4MATIC_Coupe--421085": {
             "firstSeen": "2020-09-18T16:02:53.235Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:34.541Z"
+            "lastSeen": "2020-10-29T10:47:08.897Z"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE_Coupe/GLE_350_d_4MATIC_Coupe--421055": {
             "firstSeen": "2020-09-18T16:02:53.241Z",
@@ -448,37 +448,37 @@
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE_Coupe/GLE_400_d_4MATIC_Coupe--419779": {
             "firstSeen": "2020-09-18T16:02:53.241Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:34.537Z"
+            "lastSeen": "2020-10-29T10:47:08.894Z"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE_Coupe/GLE_400_d_4MATIC_Coupe--417857": {
             "firstSeen": "2020-09-18T16:02:53.242Z",
             "verdict": "EXPENSIVE",
-            "lastSeen": "2020-10-29T06:04:34.542Z"
+            "lastSeen": "2020-10-29T10:47:08.899Z"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE_Coupe/GLE_400_d_4MATIC_Coupe--418078": {
             "firstSeen": "2020-09-18T16:02:53.242Z",
             "verdict": "EXPENSIVE",
-            "lastSeen": "2020-10-29T06:04:34.544Z"
+            "lastSeen": "2020-10-29T10:47:08.901Z"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE_Coupe/GLE_400_d_4MATIC_Coupe--417800": {
             "firstSeen": "2020-09-18T16:02:53.243Z",
             "verdict": "EXPENSIVE",
-            "lastSeen": "2020-10-29T06:04:34.543Z"
+            "lastSeen": "2020-10-29T10:47:08.900Z"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE_Coupe/GLE_400_d_4MATIC_Coupe--416560": {
             "firstSeen": "2020-09-18T16:02:53.244Z",
             "verdict": "EXPENSIVE",
-            "lastSeen": "2020-10-29T06:04:34.545Z"
+            "lastSeen": "2020-10-29T10:47:08.903Z"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE_Coupe/GLE_350_d_4MATIC_Coupe--409565": {
             "firstSeen": "2020-09-18T16:02:53.244Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:34.546Z"
+            "lastSeen": "2020-10-29T10:47:08.904Z"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE_Coupe/GLE_350_d_4MATIC_Coupe--409555": {
             "firstSeen": "2020-09-18T16:02:53.244Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:34.548Z"
+            "lastSeen": "2020-10-29T10:47:08.905Z"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE_Coupe/GLE_350_d_4MATIC_Coupe--409614": {
             "firstSeen": "2020-09-18T16:02:53.244Z",
@@ -493,22 +493,22 @@
         "https://elite-cars-leasing.ro/collections/clasa-glc/products/mercedes-benz-glc-250-d-4matic-amg-ledbraun-comand-acc-burm-ka": {
             "firstSeen": "2020-09-19T07:55:11.259Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:48.014Z"
+            "lastSeen": "2020-10-29T10:47:23.680Z"
         },
         "https://elite-cars-leasing.ro/collections/clasa-glc/products/mercedes-benz-glc-250-4matic-ledbeige-comand-pano-key-kam": {
             "firstSeen": "2020-09-19T07:55:11.260Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:48.016Z"
+            "lastSeen": "2020-10-29T10:47:23.682Z"
         },
         "https://elite-cars-leasing.ro/collections/clasa-glc/products/mercedes-benz-glc-220-d-4matic-amg-comand-leather-acc-kam-dynsel": {
             "firstSeen": "2020-09-19T07:55:11.266Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:48.018Z"
+            "lastSeen": "2020-10-29T10:47:23.683Z"
         },
         "https://elite-cars-leasing.ro/collections/clasa-glc/products/mercedes-benz-glc-250-d-4matic-amg-comand-acc-ils-hud-kam-ahk": {
             "firstSeen": "2020-09-19T07:55:11.267Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:48.019Z"
+            "lastSeen": "2020-10-29T10:47:23.684Z"
         },
         "https://elite-cars-leasing.ro/collections/clasa-glc/products/mercedes-benz-glc-250-d-4matic-ledbeige-comand-acc-360ka-8fach": {
             "firstSeen": "2020-09-19T07:55:11.267Z",
@@ -518,12 +518,12 @@
         "https://elite-cars-leasing.ro/collections/clasa-glc/products/mercedes-benz-glc-250-d-4matic-leather-comand-pano-mem-360kam": {
             "firstSeen": "2020-09-19T07:55:11.268Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:48.020Z"
+            "lastSeen": "2020-10-29T10:47:23.685Z"
         },
         "https://elite-cars-leasing.ro/collections/clasa-glc/products/mercedes-benz-glc-class-250cdi-4matic-amg-navicomand-leder-acc-pano-bixen-kam": {
             "firstSeen": "2020-09-19T07:55:11.269Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:48.021Z"
+            "lastSeen": "2020-10-29T10:47:23.686Z"
         },
         "https://elite-cars-leasing.ro/collections/clasa-glc/products/mercedes-benz-glc-class-glc-220-d-4matic-1": {
             "firstSeen": "2020-09-19T07:55:11.269Z",
@@ -533,92 +533,92 @@
         "https://elite-cars-leasing.ro/collections/clasa-glc/products/mercedes-benz-glc-class-250cdi-4m-designo-amg-navicomand-leder-acc-hud-burm-360kam-webasto": {
             "firstSeen": "2020-09-19T07:55:11.270Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:48.023Z"
+            "lastSeen": "2020-10-29T10:47:23.688Z"
         },
         "https://elite-cars-leasing.ro/collections/clasa-glc/products/mercedes-benz-glc-220cdi-4m-off-road-paket-comand-burmester-360kam-key-ils-rollo": {
             "firstSeen": "2020-09-19T07:55:11.270Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:48.024Z"
+            "lastSeen": "2020-10-29T10:47:23.689Z"
         },
         "https://elite-cars-leasing.ro/collections/clasa-glc/products/mercedes-benz-glc-220-d-4matic-amg-led-leather-brown": {
             "firstSeen": "2020-09-19T07:55:11.270Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:48.004Z"
+            "lastSeen": "2020-10-29T10:47:23.670Z"
         },
         "https://elite-cars-leasing.ro/collections/clasa-glc/products/mercedes-benz-glc-250-d-4matic-amg-comand-led-pano-airbody-acc": {
             "firstSeen": "2020-09-19T07:55:11.271Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:48.025Z"
+            "lastSeen": "2020-10-29T10:47:23.690Z"
         },
         "https://elite-cars-leasing.ro/collections/clasa-gle/products/mercedes-benz-gle-250-d-4matic-led-airm-comand-key-ils-acc-ahk": {
             "firstSeen": "2020-09-19T07:55:12.728Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:49.654Z"
+            "lastSeen": "2020-10-29T10:47:26.010Z"
         },
         "https://elite-cars-leasing.ro/collections/clasa-gle/products/mercedes-benz-gle-class-gle-350-d-4m-coupe-amg-sport-comand-ils-pano-cam-memory-harman-kardon": {
             "firstSeen": "2020-09-19T07:55:12.728Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:49.655Z"
+            "lastSeen": "2020-10-29T10:47:26.011Z"
         },
         "https://elite-cars-leasing.ro/collections/clasa-gle/products/mercedes-benz-gle-d-4m-amg": {
             "firstSeen": "2020-09-19T07:55:12.734Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:49.659Z"
+            "lastSeen": "2020-10-29T10:47:26.014Z"
         },
         "https://elite-cars-leasing.ro/collections/clasa-gle/products/mercedes-benz-gle350cdi-amg-navi-lederdesigno-airmatik-pano": {
             "firstSeen": "2020-09-19T07:55:12.735Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:49.660Z"
+            "lastSeen": "2020-10-29T10:47:26.015Z"
         },
         "https://plus-auto.ro/anunt/1568": {
             "firstSeen": "2020-09-19T08:17:38.067Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:58.308Z"
+            "lastSeen": "2020-10-29T10:47:35.088Z"
         },
         "https://plus-auto.ro/anunt/1729": {
             "firstSeen": "2020-09-19T08:21:00.216Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:55.542Z"
+            "lastSeen": "2020-10-29T10:47:31.999Z"
         },
         "https://plus-auto.ro/anunt/1728": {
             "firstSeen": "2020-09-19T08:21:00.217Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:55.543Z"
+            "lastSeen": "2020-10-29T10:47:32.000Z"
         },
         "https://plus-auto.ro/anunt/1725": {
             "firstSeen": "2020-09-19T08:21:00.223Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:55.544Z"
+            "lastSeen": "2020-10-29T10:47:32.001Z"
         },
         "https://plus-auto.ro/anunt/1724": {
             "firstSeen": "2020-09-19T08:21:00.224Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:55.545Z"
+            "lastSeen": "2020-10-29T10:47:32.002Z"
         },
         "https://plus-auto.ro/anunt/1671": {
             "firstSeen": "2020-09-19T08:21:00.224Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:55.547Z"
+            "lastSeen": "2020-10-29T10:47:32.004Z"
         },
         "https://plus-auto.ro/anunt/1641": {
             "firstSeen": "2020-09-19T08:21:00.225Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:55.548Z"
+            "lastSeen": "2020-10-29T10:47:32.005Z"
         },
         "https://plus-auto.ro/anunt/1564": {
             "firstSeen": "2020-09-19T08:21:00.226Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:55.549Z"
+            "lastSeen": "2020-10-29T10:47:32.006Z"
         },
         "https://plus-auto.ro/anunt/1563": {
             "firstSeen": "2020-09-19T08:21:00.226Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:55.550Z"
+            "lastSeen": "2020-10-29T10:47:32.008Z"
         },
         "https://plus-auto.ro/anunt/1480": {
             "firstSeen": "2020-09-19T08:21:00.227Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:55.552Z"
+            "lastSeen": "2020-10-29T10:47:32.009Z"
         },
         "https://plus-auto.ro/anunt/1158": {
             "firstSeen": "2020-09-19T08:21:00.227Z",
@@ -725,27 +725,27 @@
         "https://plus-auto.ro/anunt/1734": {
             "firstSeen": "2020-09-19T08:41:30.470Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:05:04.294Z"
+            "lastSeen": "2020-10-29T10:47:41.115Z"
         },
         "https://plus-auto.ro/anunt/1732": {
             "firstSeen": "2020-09-19T08:41:30.471Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:05:04.295Z"
+            "lastSeen": "2020-10-29T10:47:41.117Z"
         },
         "https://plus-auto.ro/anunt/1730": {
             "firstSeen": "2020-09-19T08:41:30.477Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:05:04.296Z"
+            "lastSeen": "2020-10-29T10:47:41.118Z"
         },
         "https://plus-auto.ro/anunt/1676": {
             "firstSeen": "2020-09-19T08:41:30.477Z",
             "verdict": "EXPENSIVE",
-            "lastSeen": "2020-10-29T06:05:04.297Z"
+            "lastSeen": "2020-10-29T10:47:41.119Z"
         },
         "https://plus-auto.ro/anunt/1664": {
             "firstSeen": "2020-09-19T08:41:30.478Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:05:04.300Z"
+            "lastSeen": "2020-10-29T10:47:41.121Z"
         },
         "https://plus-auto.ro/anunt/1028": {
             "firstSeen": "2020-09-19T08:41:30.479Z",
@@ -755,12 +755,12 @@
         "https://www.auto-schunn.ro/detaliu-auto-138771765/Mercedes-Benz-GLC-63-AMG-4M-Coupe-PERFORMANCE-MEMORY-HEAD-UP-DISTR-oferta-detaliata.htm": {
             "firstSeen": "2020-09-19T11:12:56.023Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:37.213Z"
+            "lastSeen": "2020-10-29T10:47:11.947Z"
         },
         "https://www.auto-schunn.ro/detaliu-auto-140529683/Mercedes-Benz-GLC-200-4Matic-PREMIUM-OFF-ROAD-MEMORY-oferta-detaliata.htm": {
             "firstSeen": "2020-09-19T11:12:56.024Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:37.230Z"
+            "lastSeen": "2020-10-29T10:47:11.964Z"
         },
         "https://www.auto-schunn.ro/detaliu-auto-144033696/Mercedes-Benz-GLC-300-Coupe-4Matic-AMG-SPORT-DESIGNO-PREMIUM--oferta-detaliata.htm": {
             "firstSeen": "2020-09-19T11:12:56.025Z",
@@ -770,57 +770,57 @@
         "https://www.auto-schunn.ro/detaliu-auto-141436230/Mercedes-Benz-GLC-200-d-4Matic-SPORT-AMG-MEMORY-NIGHT-oferta-detaliata.htm": {
             "firstSeen": "2020-09-19T11:12:56.025Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:37.227Z"
+            "lastSeen": "2020-10-29T10:47:11.962Z"
         },
         "https://www.auto-schunn.ro/detaliu-auto-141618662/Mercedes-Benz-GLC-200-d-4Matic-CONFORT-PREMIUM-MEMORY-oferta-detaliata.htm": {
             "firstSeen": "2020-09-19T11:12:56.025Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:37.228Z"
+            "lastSeen": "2020-10-29T10:47:11.963Z"
         },
         "https://www.auto-schunn.ro/detaliu-auto-140792742/Mercedes-Benz-GLC-200-4Matic-PREMIUM-LINIE-OFF-ROAD-MEMORY-oferta-detaliata.htm": {
             "firstSeen": "2020-09-19T11:12:56.026Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:37.231Z"
+            "lastSeen": "2020-10-29T10:47:11.965Z"
         },
         "https://www.auto-schunn.ro/detaliu-auto-140812268/Mercedes-Benz-GLC-200-4Matic-PREMIUM-AMG-THERMOTRONIC-MEMORY-oferta-detaliata.htm": {
             "firstSeen": "2020-09-19T11:12:56.027Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:37.232Z"
+            "lastSeen": "2020-10-29T10:47:11.967Z"
         },
         "https://www.auto-schunn.ro/detaliu-auto-140814336/Mercedes-Benz-GLC-200-4Matic-AMG-ADVANTAGE-MEMORY-oferta-detaliata.htm": {
             "firstSeen": "2020-09-19T11:12:56.027Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:37.235Z"
+            "lastSeen": "2020-10-29T10:47:11.969Z"
         },
         "https://www.auto-schunn.ro/detaliu-auto-143800959/Mercedes-Benz-GLC-300-Coupe-4Matic-BUSINESS-PARK-360gr-oferta-detaliata.htm": {
             "firstSeen": "2020-09-19T11:12:56.027Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:37.214Z"
+            "lastSeen": "2020-10-29T10:47:11.949Z"
         },
         "https://www.auto-schunn.ro/detaliu-auto-143812780/Mercedes-Benz-GLC-300-Coupe-4M-AMG-HIGH-END-BUSINESS-CONFORT-oferta-detaliata.htm": {
             "firstSeen": "2020-09-19T11:12:56.028Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:37.223Z"
+            "lastSeen": "2020-10-29T10:47:11.958Z"
         },
         "https://www.auto-schunn.ro/detaliu-auto-139170333/Mercedes-Benz-GLC-250-d-4Matic-COMFORT-EXCLUSIVE-MEMORY-ILS-oferta-detaliata.htm": {
             "firstSeen": "2020-09-19T11:12:56.028Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:37.224Z"
+            "lastSeen": "2020-10-29T10:47:11.960Z"
         },
         "https://www.auto-schunn.ro/detaliu-auto-141546225/Mercedes-Benz-GLC-220-d-4Matic-EXCLUSIVE-AMG-PREMIUM-DRIVING-oferta-detaliata.htm": {
             "firstSeen": "2020-09-19T11:12:56.028Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:37.226Z"
+            "lastSeen": "2020-10-29T10:47:11.961Z"
         },
         "https://www.auto-schunn.ro/detaliu-auto-143287268/Mercedes-Benz-GLC-220-d-4Matic-CONFORT-MEMORY-PARK-CAMERA-360gr-oferta-detaliata.htm": {
             "firstSeen": "2020-09-19T11:12:56.029Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:37.240Z"
+            "lastSeen": "2020-10-29T10:47:11.973Z"
         },
         "https://www.auto-schunn.ro/detaliu-auto-142660507/Mercedes-Benz-GLC-220-d-4M-Sport-Edition-Premium-Memory-oferta-detaliata.htm": {
             "firstSeen": "2020-09-19T11:12:56.029Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:37.239Z"
+            "lastSeen": "2020-10-29T10:47:11.972Z"
         },
         "https://www.auto-schunn.ro/detaliu-auto-140704141/Mercedes-Benz-GLC-220-Coupe-d-4M-PREMIUM-AMG-EXCLUSIVE-DISTRO-oferta-detaliata.htm": {
             "firstSeen": "2020-09-19T11:12:56.029Z",
@@ -831,12 +831,12 @@
         "https://www.auto-schunn.ro/detaliu-auto-140719127/Mercedes-Benz-GLC-200-4Matic-AMG-EXCLUSIVE-ADVANTAGE-MEMORY-oferta-detaliata.htm": {
             "firstSeen": "2020-09-19T11:12:56.030Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:37.234Z"
+            "lastSeen": "2020-10-29T10:47:11.968Z"
         },
         "https://www.auto-schunn.ro/detaliu-auto-143679318/Mercedes-Benz-GLC-200-4M-CONFORT-DISTRONIC-MEMORY-CAMERA-360gr-oferta-detaliata.htm": {
             "firstSeen": "2020-09-19T11:12:56.030Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:37.236Z"
+            "lastSeen": "2020-10-29T10:47:11.970Z"
         },
         "https://www.auto-schunn.ro/detaliu-auto-144274310/Mercedes-Benz-GLE-350-DE-4M-Airmatic-Multicontur-Distronic-oferta-detaliata.htm": {
             "firstSeen": "2020-09-19T11:12:58.296Z",
@@ -846,37 +846,37 @@
         "https://www.auto-schunn.ro/detaliu-auto-143341066/Mercedes-Benz-GLE-350-d-4M-AMG-AIRMATIC-MULTIBEAM-AIR-BALANCE-360gr-oferta-detaliata.htm": {
             "firstSeen": "2020-09-19T11:12:58.297Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:38.584Z"
+            "lastSeen": "2020-10-29T10:47:13.498Z"
         },
         "https://www.auto-schunn.ro/detaliu-auto-143236607/Mercedes-Benz-GLE-350-d-4Matic-AMG-AIRMATIC-PANO-MULTIBEAM-oferta-detaliata.htm": {
             "firstSeen": "2020-09-19T11:12:58.303Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:38.580Z"
+            "lastSeen": "2020-10-29T10:47:13.494Z"
         },
         "https://www.auto-schunn.ro/detaliu-auto-142301608/Mercedes-Benz-GLE-350-d-4M-AIRMATIC-MULTIBEAM-LED-PARK-360gr-oferta-detaliata.htm": {
             "firstSeen": "2020-09-19T11:12:58.303Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:38.585Z"
+            "lastSeen": "2020-10-29T10:47:13.499Z"
         },
         "https://www.auto-schunn.ro/detaliu-auto-144146197/Mercedes-Benz-GLE-400-d-4Matic-AMG-PREMIUM-AIRMATIC-BURMESTER-oferta-detaliata.htm": {
             "firstSeen": "2020-09-19T11:12:58.304Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:38.570Z"
+            "lastSeen": "2020-10-29T10:47:13.484Z"
         },
         "https://www.auto-schunn.ro/detaliu-auto-143550366/Mercedes-Benz-GLE-450-4M-AMG-PREMIUM-AIRMATIC-THERMOTRONIC-oferta-detaliata.htm": {
             "firstSeen": "2020-09-19T11:12:58.304Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:38.566Z"
+            "lastSeen": "2020-10-29T10:47:13.480Z"
         },
         "https://www.auto-schunn.ro/detaliu-auto-143549708/Mercedes-Benz-GLE-350-d-4Matic-PREMIUM-AIRMATIC-DRIVING-PACK-oferta-detaliata.htm": {
             "firstSeen": "2020-09-19T11:12:58.305Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:38.577Z"
+            "lastSeen": "2020-10-29T10:47:13.491Z"
         },
         "https://www.auto-schunn.ro/detaliu-auto-139580018/Mercedes-Benz-GLE-450-4Matic-7-LOCURI-PREMIUM-PANO-AIRMATIC-oferta-detaliata.htm": {
             "firstSeen": "2020-09-19T11:12:58.305Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:38.562Z"
+            "lastSeen": "2020-10-29T10:47:13.475Z"
         },
         "https://www.auto-schunn.ro/detaliu-auto-142861432/Mercedes-Benz-GLE-400-d-4Matic-AMG-PREMIUM-PLUS-AIRMATIC-oferta-detaliata.htm": {
             "firstSeen": "2020-09-19T11:12:58.306Z",
@@ -886,7 +886,7 @@
         "https://www.auto-schunn.ro/detaliu-auto-142508910/Mercedes-Benz-GLE-450-4M-PREMIUM-airmatic-7-locuri-MULTIBEAM-oferta-detaliata.htm": {
             "firstSeen": "2020-09-19T11:12:58.306Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:38.564Z"
+            "lastSeen": "2020-10-29T10:47:13.478Z"
         },
         "https://www.auto-schunn.ro/detaliu-auto-139246960/Mercedes-Benz-GLE-350-d-4M-ILS-EXCLUSIVE-DISTRONIC-Logic7-360gr-oferta-detaliata.htm": {
             "firstSeen": "2020-09-19T11:12:58.306Z",
@@ -897,48 +897,48 @@
             "firstSeen": "2020-09-19T11:12:58.307Z",
             "verdict": "EXPENSIVE",
             "fullOptions": "YES",
-            "lastSeen": "2020-10-29T06:04:38.565Z"
+            "lastSeen": "2020-10-29T10:47:13.479Z"
         },
         "https://www.auto-schunn.ro/detaliu-auto-144249976/Mercedes-Benz-GLE-400-d-Distronic-Airmatic-Burmester-Panoramic-oferta-detaliata.htm": {
             "firstSeen": "2020-09-19T11:12:58.307Z",
             "verdict": "EXPENSIVE",
             "price": "101274",
-            "lastSeen": "2020-10-29T06:04:38.569Z"
+            "lastSeen": "2020-10-29T10:47:13.482Z"
         },
         "https://www.auto-schunn.ro/detaliu-auto-144203980/Mercedes-Benz-GLE-350-d-Coupe-DISTRONIC-360-PANORAMIC-AMG-oferta-detaliata.htm": {
             "firstSeen": "2020-09-19T11:12:58.308Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:38.576Z"
+            "lastSeen": "2020-10-29T10:47:13.490Z"
         },
         "https://www.auto-schunn.ro/detaliu-auto-137530431/Mercedes-Benz-GLE-500-4M-AMG-ACTIVE-EXCLUSIVE-COMAND-DRIVE--oferta-detaliata.htm": {
             "firstSeen": "2020-09-19T11:12:58.308Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:38.560Z"
+            "lastSeen": "2020-10-29T10:47:13.474Z"
         },
         "https://www.auto-schunn.ro/detaliu-auto-144146194/Mercedes-Benz-GLE-350-Coupe-d-4M-AMG-PREMIUM-DRIVE-PANO-360gr-oferta-detaliata.htm": {
             "firstSeen": "2020-09-19T11:12:58.308Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:38.592Z"
+            "lastSeen": "2020-10-29T10:47:13.506Z"
         },
         "https://www.auto-schunn.ro/detaliu-auto-143549098/Mercedes-Benz-GLE-350-d-4M-Coupe-AMG-COMAND-AIRMATIC-MEMORY-oferta-detaliata.htm": {
             "firstSeen": "2020-09-19T11:12:58.309Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:38.582Z"
+            "lastSeen": "2020-10-29T10:47:13.496Z"
         },
         "https://www.auto-schunn.ro/detaliu-auto-139499366/Mercedes-Benz-GLE-350-Coupe-d-4Matic-AMG-AIRMATIC-CAMERA-ADS--oferta-detaliata.htm": {
             "firstSeen": "2020-09-19T11:12:58.309Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:38.593Z"
+            "lastSeen": "2020-10-29T10:47:13.507Z"
         },
         "https://www.auto-schunn.ro/detaliu-auto-139169510/Mercedes-Benz-GLE-43-AMG-Coupe-THERMOTRONIC-NAVI-CAMERA-oferta-detaliata.htm": {
             "firstSeen": "2020-09-19T11:12:58.309Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:38.559Z"
+            "lastSeen": "2020-10-29T10:47:13.473Z"
         },
         "https://www.auto-schunn.ro/detaliu-auto-138944352/Mercedes-Benz-GLE-43-AMG-Coupe-4Matic-OrangeArt-Edition-PANO-oferta-detaliata.htm": {
             "firstSeen": "2020-09-19T11:12:58.310Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:38.567Z"
+            "lastSeen": "2020-10-29T10:47:13.481Z"
         },
         "https://www.auto-schunn.ro/detaliu-auto-139010554/Mercedes-Benz-GLE-450-AMG-Coupe-SPORT-ACS-COMAND-PANO-LOGIC-7-oferta-detaliata.htm": {
             "firstSeen": "2020-09-19T11:12:58.310Z",
@@ -948,17 +948,17 @@
         "https://www.auto-schunn.ro/detaliu-auto-136821142/Mercedes-Benz-GLE-350-Coupe-d-4Matic-AMG-COMAND-AIRMATIC-CAM-oferta-detaliata.htm": {
             "firstSeen": "2020-09-19T11:12:58.311Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:38.587Z"
+            "lastSeen": "2020-10-29T10:47:13.502Z"
         },
         "https://www.auto-schunn.ro/detaliu-auto-137298261/Mercedes-Benz-GLE-350-d-4Matic-AMG-COMFORT-AIRMATIC-ILS-LED-oferta-detaliata.htm": {
             "firstSeen": "2020-09-19T11:12:58.311Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:38.579Z"
+            "lastSeen": "2020-10-29T10:47:13.493Z"
         },
         "https://www.auto-schunn.ro/detaliu-auto-139937271/Mercedes-Benz-GLE-400-d-4M-AMG-PREMIUM-7-LOCURI-PANO-DRIVING-oferta-detaliata.htm": {
             "firstSeen": "2020-09-19T11:12:58.311Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:38.574Z"
+            "lastSeen": "2020-10-29T10:47:13.487Z"
         },
         "https://www.auto-schunn.ro/detaliu-auto-142325192/Mercedes-Benz-GLE-450-4M-AMG-PREMIUM-AIRMATIC-ACTIVE-HEAD-UP-oferta-detaliata.htm": {
             "firstSeen": "2020-09-19T11:12:58.312Z",
@@ -968,22 +968,22 @@
         "https://www.auto-schunn.ro/detaliu-auto-142331445/Mercedes-Benz-GLE-400-d-4M-AMG-PREMIUM-AIRMATIC-THERMOTRONIC-oferta-detaliata.htm": {
             "firstSeen": "2020-09-19T11:12:58.312Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:38.571Z"
+            "lastSeen": "2020-10-29T10:47:13.485Z"
         },
         "https://www.auto-schunn.ro/detaliu-auto-143184409/Mercedes-Benz-GLE-350-d-4M-AMG-DRIVING-PANO-MULTIBEAM-LED-PARK-oferta-detaliata.htm": {
             "firstSeen": "2020-09-19T11:12:58.312Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:38.583Z"
+            "lastSeen": "2020-10-29T10:47:13.497Z"
         },
         "https://www.auto-schunn.ro/detaliu-auto-142693997/Mercedes-Benz-GLE-400-d-4M-AMG-DISTRONIC-AIRMATIC-BURMESTER-oferta-detaliata.htm": {
             "firstSeen": "2020-09-19T11:12:58.313Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:38.575Z"
+            "lastSeen": "2020-10-29T10:47:13.489Z"
         },
         "https://www.auto-schunn.ro/detaliu-auto-141835247/Mercedes-Benz-GLE-350-Coupe-d-4Matic-AMG-COMAND-PANO-AIRMATIC-oferta-detaliata.htm": {
             "firstSeen": "2020-09-19T11:12:58.313Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:38.586Z"
+            "lastSeen": "2020-10-29T10:47:13.501Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-glc-ID7GCESm.html#0c7a2262e4": {
             "firstSeen": "2020-09-19T11:12:58.313Z",
@@ -1112,7 +1112,7 @@
         "https://www.autovit.ro/anunt/mercedes-benz-glc-ID7GDGD1.html": {
             "firstSeen": "2020-09-19T12:44:43.257Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:41.724Z"
+            "lastSeen": "2020-10-29T10:47:16.832Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-glc-ID7GDGCe.html": {
             "firstSeen": "2020-09-19T12:44:43.258Z",
@@ -1122,12 +1122,12 @@
         "https://www.autovit.ro/anunt/mercedes-benz-glc-ID7GDFtb.html": {
             "firstSeen": "2020-09-19T12:44:43.264Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:41.726Z"
+            "lastSeen": "2020-10-29T10:47:16.837Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-glc-ID7GDBUq.html": {
             "firstSeen": "2020-09-19T12:44:43.265Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:41.727Z"
+            "lastSeen": "2020-10-29T10:47:16.839Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-glc-ID7GDBdc.html": {
             "firstSeen": "2020-09-19T12:44:43.267Z",
@@ -1279,17 +1279,17 @@
         "https://www.autovit.ro/anunt/mercedes-benz-glc-coupe-ID7GDJe2.html": {
             "firstSeen": "2020-09-19T13:14:18.273Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:43.246Z"
+            "lastSeen": "2020-10-29T10:47:18.756Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-glc-coupe-ID7GDIju.html": {
             "firstSeen": "2020-09-19T13:14:18.275Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:43.247Z"
+            "lastSeen": "2020-10-29T10:47:18.757Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-glc-coupe-ID7GDIe9.html": {
             "firstSeen": "2020-09-19T13:14:18.281Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:43.248Z"
+            "lastSeen": "2020-10-29T10:47:18.758Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-glc-coupe-ID7GDGAP.html": {
             "firstSeen": "2020-09-19T13:14:18.283Z",
@@ -1314,17 +1314,17 @@
         "https://www.autovit.ro/anunt/mercedes-benz-glc-coupe-ID7GD17j.html": {
             "firstSeen": "2020-09-19T13:14:18.286Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:43.250Z"
+            "lastSeen": "2020-10-29T10:47:18.760Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-glc-coupe-ID7GCYD5.html": {
             "firstSeen": "2020-09-19T13:14:18.286Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:43.251Z"
+            "lastSeen": "2020-10-29T10:47:18.761Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-glc-coupe-ID7GCY4R.html": {
             "firstSeen": "2020-09-19T13:14:18.287Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:43.252Z"
+            "lastSeen": "2020-10-29T10:47:18.762Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-glc-coupe-ID7GCXDn.html": {
             "firstSeen": "2020-09-19T13:14:18.288Z",
@@ -1334,22 +1334,22 @@
         "https://www.autovit.ro/anunt/mercedes-benz-glc-coupe-ID7GCXnP.html": {
             "firstSeen": "2020-09-19T13:14:18.288Z",
             "verdict": "NO_DETAILS",
-            "lastSeen": "2020-10-29T06:04:43.253Z"
+            "lastSeen": "2020-10-29T10:47:18.763Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-glc-coupe-ID7GCLaa.html": {
             "firstSeen": "2020-09-19T13:14:18.289Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:43.254Z"
+            "lastSeen": "2020-10-29T10:47:18.764Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-glc-coupe-ID7GCJL1.html": {
             "firstSeen": "2020-09-19T13:14:18.289Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:43.255Z"
+            "lastSeen": "2020-10-29T10:47:18.766Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-glc-coupe-ID7GCIRb.html": {
             "firstSeen": "2020-09-19T13:14:18.290Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:43.257Z"
+            "lastSeen": "2020-10-29T10:47:18.767Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-glc-coupe-ID7GCHNA.html": {
             "firstSeen": "2020-09-19T13:14:18.290Z",
@@ -1439,32 +1439,32 @@
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLB/200_d_4MATIC--420001": {
             "firstSeen": "2020-09-20T19:42:02.218Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:28.074Z"
+            "lastSeen": "2020-10-29T10:47:02.008Z"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLB/200d_4M--415430": {
             "firstSeen": "2020-09-20T19:42:02.223Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:28.075Z"
+            "lastSeen": "2020-10-29T10:47:02.009Z"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLB/200_d_4MATIC--417651": {
             "firstSeen": "2020-09-20T19:42:02.224Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:28.076Z"
+            "lastSeen": "2020-10-29T10:47:02.010Z"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLB/220_d_4_MATIC--416508": {
             "firstSeen": "2020-09-20T19:42:02.225Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:28.077Z"
+            "lastSeen": "2020-10-29T10:47:02.011Z"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLB/220_d_4_MATIC--417029": {
             "firstSeen": "2020-09-20T19:42:02.225Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:28.078Z"
+            "lastSeen": "2020-10-29T10:47:02.012Z"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLB/250_4M--416549": {
             "firstSeen": "2020-09-20T19:42:02.226Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:28.079Z"
+            "lastSeen": "2020-10-29T10:47:02.013Z"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLB/250_4M--415869": {
             "firstSeen": "2020-09-20T19:42:02.228Z",
@@ -1474,27 +1474,27 @@
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLB/220_d_4M--415688": {
             "firstSeen": "2020-09-20T19:42:02.228Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:28.081Z"
+            "lastSeen": "2020-10-29T10:47:02.015Z"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLB/250_4M--415689": {
             "firstSeen": "2020-09-20T19:42:02.229Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:28.082Z"
+            "lastSeen": "2020-10-29T10:47:02.016Z"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLB/250_4M--415608": {
             "firstSeen": "2020-09-20T19:42:02.230Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:28.083Z"
+            "lastSeen": "2020-10-29T10:47:02.017Z"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLB/250_4M--415473": {
             "firstSeen": "2020-09-20T19:42:02.231Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:28.084Z"
+            "lastSeen": "2020-10-29T10:47:02.018Z"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLB/250_4M--415434": {
             "firstSeen": "2020-09-20T19:42:02.232Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:28.085Z"
+            "lastSeen": "2020-10-29T10:47:02.019Z"
         },
         "https://www.auto-schunn.ro/detaliu-auto-142444817/Mercedes-Benz-GLB-200-4M-OFF-ROAD-keyless-360-NIGHT-oferta-detaliata.htm": {
             "firstSeen": "2020-09-20T21:24:17.329Z",
@@ -1504,57 +1504,57 @@
         "https://www.auto-schunn.ro/detaliu-auto-143823511/Mercedes-Benz-GLB-220-d-4Matic-AMG-THERMOTRONIC-PREMIUM-NIGHT-oferta-detaliata.htm": {
             "firstSeen": "2020-09-20T21:24:17.333Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:35.911Z"
+            "lastSeen": "2020-10-29T10:47:10.583Z"
         },
         "https://www.auto-schunn.ro/detaliu-auto-143192907/Mercedes-Benz-GLB-220-d-4M-AMG-PREMIUM-NIGHT-MULTIBEAM-360gr-oferta-detaliata.htm": {
             "firstSeen": "2020-09-20T21:24:17.334Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:35.912Z"
+            "lastSeen": "2020-10-29T10:47:10.585Z"
         },
         "https://www.auto-schunn.ro/detaliu-auto-143857778/Mercedes-Benz-GLB-250-4M-AMG-THERMOTRONIC-PREMIUM-LED-MEMORY-oferta-detaliata.htm": {
             "firstSeen": "2020-09-20T21:24:17.335Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:35.909Z"
+            "lastSeen": "2020-10-29T10:47:10.582Z"
         },
         "https://www.auto-schunn.ro/detaliu-auto-143162611/Mercedes-Benz-GLB-250-4M-PREMIUM-PROGRESSIVE-THERMOTR-PANO-oferta-detaliata.htm": {
             "firstSeen": "2020-09-20T21:24:17.337Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:35.906Z"
+            "lastSeen": "2020-10-29T10:47:10.579Z"
         },
         "https://www.auto-schunn.ro/detaliu-auto-142378455/Mercedes-Benz-GLB-250-4Matic-AMG-pano-NAVI-thermotronic-360gr-oferta-detaliata.htm": {
             "firstSeen": "2020-09-20T21:24:17.338Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:35.897Z"
+            "lastSeen": "2020-10-29T10:47:10.570Z"
         },
         "https://www.auto-schunn.ro/detaliu-auto-142291013/Mercedes-Benz-GLB-250-4Matic-AMG-PANO-NAVI-THERMOTRONIC-360gr-oferta-detaliata.htm": {
             "firstSeen": "2020-09-20T21:24:17.338Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:35.899Z"
+            "lastSeen": "2020-10-29T10:47:10.572Z"
         },
         "https://www.auto-schunn.ro/detaliu-auto-142508670/Mercedes-Benz-GLB-250-4M-EDITION-1-TEHNIC-PREMIUM-DISTRONIC-oferta-detaliata.htm": {
             "firstSeen": "2020-09-20T21:24:17.339Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:35.908Z"
+            "lastSeen": "2020-10-29T10:47:10.581Z"
         },
         "https://plus-auto.ro/anunt/1562": {
             "firstSeen": "2020-09-20T21:43:15.408Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:52.610Z"
+            "lastSeen": "2020-10-29T10:47:28.866Z"
         },
         "https://plus-auto.ro/anunt/1561": {
             "firstSeen": "2020-09-20T21:43:15.411Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:52.612Z"
+            "lastSeen": "2020-10-29T10:47:28.867Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-glb-ID7GDGCK.html": {
             "firstSeen": "2020-09-20T21:45:38.338Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:40.218Z"
+            "lastSeen": "2020-10-29T10:47:15.210Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-glb-ID7GDGBk.html": {
             "firstSeen": "2020-09-20T21:45:38.340Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:40.219Z"
+            "lastSeen": "2020-10-29T10:47:15.211Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-glb-glb200-ID7GDulu.html": {
             "firstSeen": "2020-09-20T21:45:38.342Z",
@@ -1574,7 +1574,7 @@
         "https://www.autovit.ro/anunt/mercedes-benz-glb-ID7GDeeW.html": {
             "firstSeen": "2020-09-20T21:45:38.346Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:40.224Z"
+            "lastSeen": "2020-10-29T10:47:15.216Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-glb-ID7GCYJN.html": {
             "firstSeen": "2020-09-20T21:45:38.346Z",
@@ -1584,7 +1584,7 @@
         "https://www.autovit.ro/anunt/mercedes-benz-glb-ID7GCYJe.html": {
             "firstSeen": "2020-09-20T21:45:38.347Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:40.225Z"
+            "lastSeen": "2020-10-29T10:47:15.217Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-glb-ID7GCYDk.html": {
             "firstSeen": "2020-09-20T21:45:38.349Z",
@@ -1594,27 +1594,27 @@
         "https://www.autovit.ro/anunt/mercedes-benz-glb-ID7GCU75.html": {
             "firstSeen": "2020-09-20T21:45:38.350Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:40.227Z"
+            "lastSeen": "2020-10-29T10:47:15.219Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-glb-ID7GCJMJ.html": {
             "firstSeen": "2020-09-20T21:45:38.352Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:40.228Z"
+            "lastSeen": "2020-10-29T10:47:15.220Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-glb-ID7GCIRc.html": {
             "firstSeen": "2020-09-20T21:45:38.353Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:40.229Z"
+            "lastSeen": "2020-10-29T10:47:15.221Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-glb-ID7GCIR8.html": {
             "firstSeen": "2020-09-20T21:45:38.355Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:40.230Z"
+            "lastSeen": "2020-10-29T10:47:15.222Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-glb-ID7GCDY5.html": {
             "firstSeen": "2020-09-20T21:45:38.356Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:40.232Z"
+            "lastSeen": "2020-10-29T10:47:15.223Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-glb-ID7GCBaH.html": {
             "firstSeen": "2020-09-20T21:45:38.357Z",
@@ -1719,7 +1719,7 @@
         "https://www.auto-schunn.ro/detaliu-auto-144371994/Mercedes-Benz-GLC-300-Coupe-4Matic-AMG-BUSINESS-SPORT-PREMIUM--oferta-detaliata.htm": {
             "firstSeen": "2020-09-21T12:41:47.930Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:37.221Z",
+            "lastSeen": "2020-10-29T10:47:11.956Z",
             "price": {
                 "2020-10-02": "61.868"
             }
@@ -1732,7 +1732,7 @@
         "https://www.auto-schunn.ro/detaliu-auto-144356139/Mercedes-Benz-GLE-350-d-4M-ILS-EXCLUSIVE-DISTRONIC-Logic7-360gr-oferta-detaliata.htm": {
             "firstSeen": "2020-09-21T12:52:41.087Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:38.581Z"
+            "lastSeen": "2020-10-29T10:47:13.495Z"
         },
         "https://www.auto-schunn.ro/detaliu-auto-143481925/Mercedes-Benz-GLE-450-4M-AMG-PREMIUM-AIRMATIC-ACTIVE-HEAD-UP-oferta-detaliata.htm": {
             "firstSeen": "2020-09-21T12:52:41.096Z",
@@ -1742,7 +1742,7 @@
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLB/250_4M--421333": {
             "firstSeen": "2020-09-21T14:14:16.930Z",
             "verdict": "EXPENSIVE",
-            "lastSeen": "2020-10-29T06:04:28.073Z"
+            "lastSeen": "2020-10-29T10:47:02.007Z"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC/220_d_4MATIC--412658": {
             "firstSeen": "2020-09-21T14:14:18.630Z",
@@ -1757,12 +1757,12 @@
         "https://www.autovit.ro/anunt/mercedes-benz-glb-200-ID7GDsbN.html": {
             "firstSeen": "2020-09-22T07:11:29.392Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:40.221Z"
+            "lastSeen": "2020-10-29T10:47:15.213Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-glb-250-ID7GCYDk.html": {
             "firstSeen": "2020-09-22T07:11:29.396Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:40.226Z"
+            "lastSeen": "2020-10-29T10:47:15.218Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-glc-coupe-ID7GzzLK.html": {
             "firstSeen": "2020-09-22T07:11:32.507Z",
@@ -1772,7 +1772,7 @@
         "https://www.autovit.ro/anunt/mercedes-benz-glb-200-ID7GDPhZ.html": {
             "firstSeen": "2020-09-22T09:14:42.432Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:40.217Z"
+            "lastSeen": "2020-10-29T10:47:15.209Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-glb-220-ID7GBUly.html": {
             "firstSeen": "2020-09-22T09:14:42.452Z",
@@ -1887,7 +1887,7 @@
         "https://www.autovit.ro/anunt/mercedes-benz-gle-coupe-ID7GDyni.html": {
             "firstSeen": "2020-09-22T12:21:26.173Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:46.297Z"
+            "lastSeen": "2020-10-29T10:47:21.954Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-gle-coupe-ID7GDw79.html": {
             "firstSeen": "2020-09-22T12:21:26.174Z",
@@ -1917,7 +1917,7 @@
         "https://www.autovit.ro/anunt/mercedes-benz-gle-coupe-ID7GDtfX.html": {
             "firstSeen": "2020-09-22T12:21:26.178Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:46.298Z"
+            "lastSeen": "2020-10-29T10:47:21.956Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-gle-coupe-ID7GDt4U.html": {
             "firstSeen": "2020-09-22T12:21:26.178Z",
@@ -2007,7 +2007,7 @@
         "https://www.autovit.ro/anunt/mercedes-benz-gle-300-ID7GDOnt.html": {
             "firstSeen": "2020-09-22T19:50:03.987Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:44.802Z"
+            "lastSeen": "2020-10-29T10:47:20.356Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-gle-ID7GDGCQ.html": {
             "firstSeen": "2020-09-22T19:50:03.989Z",
@@ -2236,7 +2236,7 @@
         "https://www.autovit.ro/anunt/mercedes-benz-gle-coupe-ID7GC578.html": {
             "firstSeen": "2020-09-23T08:18:09.687Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:46.299Z"
+            "lastSeen": "2020-10-29T10:47:21.958Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-gle-coupe-ID7GBIVH.html": {
             "firstSeen": "2020-09-23T08:18:09.688Z",
@@ -2251,7 +2251,7 @@
         "https://www.autovit.ro/anunt/mercedes-benz-gle-coupe-ID7GB6fA.html": {
             "firstSeen": "2020-09-23T08:18:09.689Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:46.300Z"
+            "lastSeen": "2020-10-29T10:47:21.959Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-gle-coupe-ID7GB6fz.html": {
             "firstSeen": "2020-09-23T08:18:09.690Z",
@@ -2261,22 +2261,22 @@
         "https://www.autovit.ro/anunt/mercedes-benz-gle-coupe-ID7GA9vT.html": {
             "firstSeen": "2020-09-23T08:18:09.691Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:46.304Z"
+            "lastSeen": "2020-10-29T10:47:21.966Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-gle-coupe-ID7GA9vN.html": {
             "firstSeen": "2020-09-23T08:18:09.692Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:46.305Z"
+            "lastSeen": "2020-10-29T10:47:21.968Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-gle-coupe-ID7GA9wZ.html": {
             "firstSeen": "2020-09-23T08:18:09.692Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:46.306Z"
+            "lastSeen": "2020-10-29T10:47:21.971Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-gle-coupe-ID7GygrU.html": {
             "firstSeen": "2020-09-23T08:18:09.693Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:46.307Z"
+            "lastSeen": "2020-10-29T10:47:21.972Z"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLB/220_d_4_MATIC--421397": {
             "firstSeen": "2020-09-23T10:09:16.889Z",
@@ -2290,16 +2290,16 @@
         "https://www.auto-schunn.ro/detaliu-auto-142444817/Mercedes-Benz-GLB-200-d-4M-OFF-ROAD-keyless-360-NIGHT-oferta-detaliata.htm": {
             "firstSeen": "2020-09-23T10:09:24.875Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:35.914Z"
+            "lastSeen": "2020-10-29T10:47:10.586Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-glb-220-ID7GDUqy.html": {
             "firstSeen": "2020-09-23T14:54:18.839Z",
-            "lastSeen": "2020-10-29T06:04:40.215Z",
+            "lastSeen": "2020-10-29T10:47:15.207Z",
             "verdict": "NO"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-glb-200-ID7GDUiX.html": {
             "firstSeen": "2020-09-23T14:54:18.840Z",
-            "lastSeen": "2020-10-29T06:04:40.216Z",
+            "lastSeen": "2020-10-29T10:47:15.208Z",
             "verdict": "NO"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-glc-250-ID7GDUfV.html": {
@@ -2310,17 +2310,17 @@
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE/350_d_4MATIC--417659": {
             "firstSeen": "2020-09-23T19:49:24.055Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:32.739Z"
+            "lastSeen": "2020-10-29T10:47:07.187Z"
         },
         "https://www.auto-schunn.ro/detaliu-auto-144332669/Mercedes-Benz-GLE-450-4M-PREMIUM--DISTRO-AIRMATIC-BURMESTER-oferta-detaliata.htm": {
             "firstSeen": "2020-09-24T07:08:17.893Z",
             "verdict": "EXPENSIVE",
-            "lastSeen": "2020-10-29T06:04:38.563Z"
+            "lastSeen": "2020-10-29T10:47:13.476Z"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLB/200_d_4MATIC--421022": {
             "firstSeen": "2020-09-24T10:32:49.060Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:28.071Z"
+            "lastSeen": "2020-10-29T10:47:02.006Z"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE/350_d_4MATIC_Coupe--421431": {
             "firstSeen": "2020-09-24T10:32:54.141Z",
@@ -2330,21 +2330,21 @@
         "https://www.auto-schunn.ro/detaliu-auto-144424390/Mercedes-Benz-GLB-220-d-4M-PREMIUM-PROGRESSIVE-THERMOTRONIC-oferta-detaliata.htm": {
             "firstSeen": "2020-09-24T10:32:57.101Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:35.918Z"
+            "lastSeen": "2020-10-29T10:47:10.590Z"
         },
         "https://www.auto-schunn.ro/detaliu-auto-144412688/Mercedes-Benz-GLE-300-d-4Matic-AMG-LINE-PARK-360gr-NAVI-LED-oferta-detaliata.htm": {
             "firstSeen": "2020-09-24T10:33:01.645Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:38.591Z"
+            "lastSeen": "2020-10-29T10:47:13.505Z"
         },
         "https://www.auto-schunn.ro/detaliu-auto-144356140/Mercedes-Benz-GLE-400-d-4M-AMG-PREMIUM-AIRMATIC-DISTRO-BURMESTER-oferta-detaliata.htm": {
             "firstSeen": "2020-09-24T10:33:01.700Z",
             "verdict": "EXPENSIVE",
-            "lastSeen": "2020-10-29T06:04:38.572Z"
+            "lastSeen": "2020-10-29T10:47:13.486Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-glb-220-ID7GDVs0.html": {
             "firstSeen": "2020-09-24T10:33:04.121Z",
-            "lastSeen": "2020-10-29T06:04:40.213Z",
+            "lastSeen": "2020-10-29T10:47:15.205Z",
             "verdict": "NO"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-gle-ID7GDVDc.html": {
@@ -2380,12 +2380,12 @@
         "https://www.autovit.ro/anunt/mercedes-benz-gle-coupe-ID7GAKj6.html": {
             "firstSeen": "2020-09-25T07:46:59.909Z",
             "verdict": "EXPENSIVE",
-            "lastSeen": "2020-10-29T06:04:46.303Z"
+            "lastSeen": "2020-10-29T10:47:21.964Z"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC/220_d_4MATIC--421362": {
             "firstSeen": "2020-09-25T12:33:07.802Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:29.811Z"
+            "lastSeen": "2020-10-29T10:47:03.650Z"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC/300_4MATIC_Coupe--421478": {
             "firstSeen": "2020-09-25T15:27:36.762Z",
@@ -2407,14 +2407,14 @@
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLB/200_d_4MATIC--417671": {
             "firstSeen": "2020-09-28T11:36:30.065Z",
-            "lastSeen": "2020-10-29T06:04:28.069Z",
+            "lastSeen": "2020-10-29T10:47:02.003Z",
             "verdict": "NO",
             "lacks": "distronic"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE_Coupe/GLE_350_d_4MATIC_Coupe--421431": {
             "firstSeen": "2020-09-28T11:36:36.930Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:34.538Z"
+            "lastSeen": "2020-10-29T10:47:08.895Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-gle-coupe-350-ID7GEaOu.html": {
             "firstSeen": "2020-09-28T11:36:48.913Z",
@@ -2424,7 +2424,7 @@
         "https://www.autovit.ro/anunt/mercedes-benz-gle-coupe-350-ID7GEaEY.html": {
             "firstSeen": "2020-09-28T11:36:48.914Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:46.295Z"
+            "lastSeen": "2020-10-29T10:47:21.952Z"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLB/200_d_4MATIC--421501": {
             "firstSeen": "2020-09-28T14:43:31.249Z",
@@ -2459,12 +2459,12 @@
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLB/200_d--416682": {
             "firstSeen": "2020-09-29T08:25:15.739Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:28.068Z"
+            "lastSeen": "2020-10-29T10:47:02.002Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-glb-200-ID7GDqgT.html": {
             "firstSeen": "2020-09-29T08:25:26.958Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:40.223Z"
+            "lastSeen": "2020-10-29T10:47:15.214Z"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE/400_d_4MATIC--420418": {
             "firstSeen": "2020-09-29T10:28:41.374Z",
@@ -2487,22 +2487,22 @@
         "https://www.auto-schunn.ro/detaliu-auto-144424389/Mercedes-Benz-GLB-220-d-4M-AMG-THERMOTRONIC-PREMIUM-PARK-360gr-oferta-detaliata.htm": {
             "firstSeen": "2020-09-29T14:41:35.496Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:35.916Z"
+            "lastSeen": "2020-10-29T10:47:10.588Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-glb-200-ID7GDulu.html": {
             "firstSeen": "2020-09-30T09:22:48.732Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:40.220Z"
+            "lastSeen": "2020-10-29T10:47:15.212Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-glc-glc220-ID7GDGCe.html": {
             "firstSeen": "2020-09-30T09:22:50.316Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:41.725Z"
+            "lastSeen": "2020-10-29T10:47:16.835Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-glc-coupe-ID7GEd9T.html": {
             "firstSeen": "2020-09-30T09:22:51.853Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:43.245Z"
+            "lastSeen": "2020-10-29T10:47:18.754Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-gle-ID7GDsXM.html": {
             "firstSeen": "2020-09-30T09:22:53.408Z",
@@ -2512,27 +2512,27 @@
         "https://www.autovit.ro/anunt/mercedes-benz-gle-300-ID7GDqf9.html": {
             "firstSeen": "2020-09-30T09:22:53.411Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-27T16:02:29.709Z"
+            "lastSeen": "2020-10-29T10:47:20.361Z"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE_Coupe/GLE_350_d_4MATIC_Coupe--421387": {
             "firstSeen": "2020-09-30T11:06:39.905Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:34.529Z"
+            "lastSeen": "2020-10-29T10:47:08.886Z"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLB/200d_4M--421545": {
             "firstSeen": "2020-09-30T15:39:17.132Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:28.067Z"
+            "lastSeen": "2020-10-29T10:47:02.001Z"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLB/200_d_4MATIC--421584": {
             "firstSeen": "2020-09-30T15:39:17.145Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:28.070Z"
+            "lastSeen": "2020-10-29T10:47:02.004Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-glb-200-ID7GEeaA.html": {
             "firstSeen": "2020-09-30T15:39:28.251Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:40.212Z"
+            "lastSeen": "2020-10-29T10:47:15.204Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-glb-250-ID7GCjMT.html": {
             "firstSeen": "2020-09-30T15:39:28.276Z",
@@ -2547,17 +2547,17 @@
         "https://www.autovit.ro/anunt/mercedes-benz-glc-coupe-220-ID7GEejS.html": {
             "firstSeen": "2020-09-30T15:39:31.459Z",
             "verdict": "EXPENSIVE",
-            "lastSeen": "2020-10-29T06:04:43.244Z"
+            "lastSeen": "2020-10-29T10:47:18.753Z"
         },
         "https://plus-auto.ro/anunt/1862": {
             "firstSeen": "2020-09-30T15:39:43.619Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:55.540Z"
+            "lastSeen": "2020-10-29T10:47:31.996Z"
         },
         "https://plus-auto.ro/anunt/1861": {
             "firstSeen": "2020-09-30T15:39:43.620Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:55.541Z"
+            "lastSeen": "2020-10-29T10:47:31.998Z"
         },
         "https://plus-auto.ro/anunt/1866": {
             "firstSeen": "2020-09-30T15:39:48.620Z",
@@ -2572,12 +2572,12 @@
         "https://plus-auto.ro/anunt/1863": {
             "firstSeen": "2020-09-30T15:39:51.165Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:05:04.293Z"
+            "lastSeen": "2020-10-29T10:47:41.114Z"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE_Coupe/GLE_350_d_4MATIC_Coupe--421513": {
             "firstSeen": "2020-10-01T04:23:10.151Z",
             "verdict": "EXPENSIVE",
-            "lastSeen": "2020-10-29T06:04:34.536Z"
+            "lastSeen": "2020-10-29T10:47:08.893Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-gle-ID7GEf48.html": {
             "firstSeen": "2020-10-01T08:26:43.380Z",
@@ -2597,7 +2597,7 @@
         "https://www.autovit.ro/anunt/mercedes-benz-glb-200-ID7GEh0o.html": {
             "firstSeen": "2020-10-02T07:44:08.348Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:40.211Z"
+            "lastSeen": "2020-10-29T10:47:15.203Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-glc-ID7GCFd3.html": {
             "firstSeen": "2020-10-02T07:44:09.914Z",
@@ -2607,7 +2607,7 @@
         "https://www.autovit.ro/anunt/mercedes-benz-gle-350-ID7GDxTy.html": {
             "firstSeen": "2020-10-02T07:44:13.074Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:44.803Z"
+            "lastSeen": "2020-10-29T10:47:20.358Z"
         },
         "https://www.casaautotimisoara.ro/mercedes-benz/stoc-autoturisme/369-glb-220-d-4m": {
             "firstSeen": "2020-10-02T07:44:13.074Z",
@@ -2621,13 +2621,13 @@
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLB/220_d_4_MATIC--417656": {
             "firstSeen": "2020-10-02T14:32:24.956Z",
-            "lastSeen": "2020-10-29T06:04:28.065Z",
+            "lastSeen": "2020-10-29T10:47:02.000Z",
             "verdict": "NO"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC/220_d_4MATIC--421687": {
             "firstSeen": "2020-10-02T14:32:26.506Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:29.809Z"
+            "lastSeen": "2020-10-29T10:47:03.647Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-glc-ID7GCESm.html": {
             "firstSeen": "2020-10-02T16:06:26.058Z",
@@ -2651,22 +2651,22 @@
         "https://www.autovit.ro/anunt/mercedes-benz-glc-200-ID7GEjnv.html": {
             "firstSeen": "2020-10-04T11:07:20.880Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:41.722Z"
+            "lastSeen": "2020-10-29T10:47:16.831Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-gle-300-ID7GEkiA.html": {
             "firstSeen": "2020-10-05T05:36:52.270Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:44.801Z"
+            "lastSeen": "2020-10-29T10:47:20.354Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-gle-coupe-ID7GB2rY.html": {
             "firstSeen": "2020-10-05T07:45:07.512Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:46.302Z"
+            "lastSeen": "2020-10-29T10:47:21.962Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-glc-coupe-300-ID7GCHNA.html": {
             "firstSeen": "2020-10-05T11:43:23.263Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:43.258Z"
+            "lastSeen": "2020-10-29T10:47:18.768Z"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE_Coupe/GLE_350_d_4MATIC_Coupe--421684": {
             "firstSeen": "2020-10-05T12:24:39.892Z",
@@ -2681,16 +2681,16 @@
         "https://plus-auto.ro/anunt/1922": {
             "firstSeen": "2020-10-05T13:28:31.827Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:55.538Z"
+            "lastSeen": "2020-10-29T10:47:31.995Z"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLB/200--421724": {
             "firstSeen": "2020-10-06T03:47:27.160Z",
-            "lastSeen": "2020-10-29T06:04:28.064Z",
+            "lastSeen": "2020-10-29T10:47:01.999Z",
             "verdict": "NO"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLB/220_d_4_MATIC--421653": {
             "firstSeen": "2020-10-06T03:47:27.167Z",
-            "lastSeen": "2020-10-29T06:04:28.063Z",
+            "lastSeen": "2020-10-29T10:47:01.997Z",
             "verdict": "NO"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE/350_d_4MATIC_Coupe--421725": {
@@ -2706,27 +2706,27 @@
         "https://www.auto-schunn.ro/detaliu-auto-144535256/Mercedes-Benz-GLE-350-Coupe-d-4Matic-PREMIUM-DRIVING-PACK-oferta-detaliata.htm": {
             "firstSeen": "2020-10-06T03:47:39.893Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:38.589Z"
+            "lastSeen": "2020-10-29T10:47:13.503Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-glc-coupe-200-ID7GElHi.html": {
             "firstSeen": "2020-10-06T03:47:44.798Z",
             "verdict": "YES",
-            "lastSeen": "2020-10-29T06:04:43.243Z"
+            "lastSeen": "2020-10-29T10:47:18.751Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-gle-ID7GElLD.html": {
             "firstSeen": "2020-10-06T03:47:46.343Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:44.800Z"
+            "lastSeen": "2020-10-29T10:47:20.353Z"
         },
         "https://elite-cars-leasing.ro/collections/clasa-gle/products/mercedes-benz-gle-350-d-4matic-amg-airmatik-leather-acc-pano-ahk": {
             "firstSeen": "2020-10-06T03:47:53.576Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:49.658Z"
+            "lastSeen": "2020-10-29T10:47:26.013Z"
         },
         "https://plus-auto.ro/anunt/1923": {
             "firstSeen": "2020-10-06T03:47:58.777Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:55.537Z"
+            "lastSeen": "2020-10-29T10:47:31.994Z"
         },
         "https://plus-auto.ro/anunt/1929": {
             "firstSeen": "2020-10-06T03:48:03.788Z",
@@ -2741,27 +2741,27 @@
         "https://www.autovit.ro/anunt/mercedes-benz-glc-220-ID7GEmxJ.html": {
             "firstSeen": "2020-10-06T08:06:05.334Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:41.721Z"
+            "lastSeen": "2020-10-29T10:47:16.830Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-glc-coupe-220-ID7GEmvG.html": {
             "firstSeen": "2020-10-06T08:06:06.866Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:43.242Z"
+            "lastSeen": "2020-10-29T10:47:18.750Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-gle-350-ID7GEmvq.html": {
             "firstSeen": "2020-10-06T08:06:08.441Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:44.798Z"
+            "lastSeen": "2020-10-29T10:47:20.351Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-glc-300-ID7GEmSc.html": {
             "firstSeen": "2020-10-06T11:21:53.137Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:41.720Z"
+            "lastSeen": "2020-10-29T10:47:16.829Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-glc-coupe-ID7GEnjh.html": {
             "firstSeen": "2020-10-06T11:21:54.741Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:43.241Z"
+            "lastSeen": "2020-10-29T10:47:18.749Z"
         },
         "https://plus-auto.ro/anunt/1941": {
             "firstSeen": "2020-10-06T11:22:13.138Z",
@@ -2772,22 +2772,22 @@
         "https://www.autovit.ro/anunt/mercedes-benz-glc-coupe-ID7GEnlh.html": {
             "firstSeen": "2020-10-06T13:04:24.160Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:43.239Z"
+            "lastSeen": "2020-10-29T10:47:18.747Z"
         },
         "https://elite-cars-leasing.ro/collections/clasa-gle/products/mercedes-benz-gle-class-coupe-gle-350-d-4matic": {
             "firstSeen": "2020-10-06T14:27:03.997Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:49.652Z"
+            "lastSeen": "2020-10-29T10:47:26.007Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-glb-200-ID7GEnVp.html": {
             "firstSeen": "2020-10-07T08:30:20.705Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:40.210Z"
+            "lastSeen": "2020-10-29T10:47:15.202Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-gle-400-ID7GEnFS.html": {
             "firstSeen": "2020-10-07T08:30:25.355Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:44.797Z"
+            "lastSeen": "2020-10-29T10:47:20.350Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-gle-300-ID7GDdsG.html": {
             "firstSeen": "2020-10-07T08:30:25.373Z",
@@ -2797,57 +2797,57 @@
         "https://www.autovit.ro/anunt/mercedes-benz-glc-coupe-200-ID7GEoG4.html": {
             "firstSeen": "2020-10-07T13:33:40.008Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:43.237Z"
+            "lastSeen": "2020-10-29T10:47:18.745Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-glc-coupe-200-ID7GEoDQ.html": {
             "firstSeen": "2020-10-07T13:33:40.009Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:43.238Z"
+            "lastSeen": "2020-10-29T10:47:18.746Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-gle-350-ID7GEoIm.html": {
             "firstSeen": "2020-10-07T13:33:41.640Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:44.796Z"
+            "lastSeen": "2020-10-29T10:47:20.349Z"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE_Coupe/GLE_350_d_4MATIC_Coupe--416840": {
             "firstSeen": "2020-10-07T15:20:36.823Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:34.524Z"
+            "lastSeen": "2020-10-29T10:47:08.873Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-glc-coupe-200-ID7GEoKx.html": {
             "firstSeen": "2020-10-07T15:20:45.570Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:43.236Z"
+            "lastSeen": "2020-10-29T10:47:18.744Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-gle-350-ID7GEoPf.html": {
             "firstSeen": "2020-10-07T15:20:47.174Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:44.795Z"
+            "lastSeen": "2020-10-29T10:47:20.347Z"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE_Coupe/GLE_350_d_4MATIC_Coupe--421725": {
             "firstSeen": "2020-10-08T07:28:23.573Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:34.526Z"
+            "lastSeen": "2020-10-29T10:47:08.878Z"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC/220_d_4MATIC--421818": {
             "firstSeen": "2020-10-08T13:25:53.619Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:29.808Z"
+            "lastSeen": "2020-10-29T10:47:03.646Z"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC/200_4MATIC--421827": {
             "firstSeen": "2020-10-08T13:25:53.652Z",
-            "lastSeen": "2020-10-29T06:04:29.830Z",
+            "lastSeen": "2020-10-29T10:47:03.668Z",
             "verdict": "NO"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC/220_d_4MATIC--421826": {
             "firstSeen": "2020-10-08T13:25:53.653Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:29.829Z"
+            "lastSeen": "2020-10-29T10:47:03.667Z"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE_Coupe/GLE_400_d_4MATIC_Coupe--421654": {
             "firstSeen": "2020-10-08T13:25:58.412Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:34.532Z"
+            "lastSeen": "2020-10-29T10:47:08.889Z"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE_Coupe/GLE_400_4MATIC_Coupe--421726": {
             "firstSeen": "2020-10-08T13:25:58.415Z",
@@ -2862,17 +2862,17 @@
         "https://www.autovit.ro/anunt/mercedes-benz-glc-coupe-200-ID7GEq2z.html": {
             "firstSeen": "2020-10-08T13:26:08.218Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:43.235Z"
+            "lastSeen": "2020-10-29T10:47:18.743Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-gle-coupe-ID7GEpyn.html": {
             "firstSeen": "2020-10-08T13:26:11.391Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:46.294Z"
+            "lastSeen": "2020-10-29T10:47:21.950Z"
         },
         "https://plus-auto.ro/anunt/2007": {
             "firstSeen": "2020-10-08T13:26:29.534Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:05:04.292Z"
+            "lastSeen": "2020-10-29T10:47:41.113Z"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE/400_d_4MATIC--415287": {
             "firstSeen": "2020-10-08T15:06:48.304Z",
@@ -2887,17 +2887,17 @@
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE_Coupe/GLE_350_d_4MATIC_Coupe--416411": {
             "firstSeen": "2020-10-08T17:15:32.513Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:34.534Z"
+            "lastSeen": "2020-10-29T10:47:08.891Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-gle-ID7GErfD.html": {
             "firstSeen": "2020-10-09T10:04:27.661Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:44.794Z"
+            "lastSeen": "2020-10-29T10:47:20.346Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-gle-coupe-ID7GErLK.html": {
             "firstSeen": "2020-10-09T11:22:07.830Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:46.293Z"
+            "lastSeen": "2020-10-29T10:47:21.947Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-gle-450-ID7GEsJh.html": {
             "firstSeen": "2020-10-09T14:13:46.644Z",
@@ -2907,47 +2907,47 @@
         "https://www.autovit.ro/anunt/mercedes-benz-gle-coupe-ID7GErUl.html": {
             "firstSeen": "2020-10-09T14:13:48.175Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:46.286Z"
+            "lastSeen": "2020-10-29T10:47:21.946Z"
         },
         "https://plus-auto.ro/anunt/2065": {
             "firstSeen": "2020-10-09T14:13:57.047Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:55.532Z"
+            "lastSeen": "2020-10-29T10:47:31.990Z"
         },
         "https://plus-auto.ro/anunt/2064": {
             "firstSeen": "2020-10-09T14:13:57.049Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:55.534Z"
+            "lastSeen": "2020-10-29T10:47:31.991Z"
         },
         "https://plus-auto.ro/anunt/2063": {
             "firstSeen": "2020-10-09T14:13:57.055Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:55.536Z"
+            "lastSeen": "2020-10-29T10:47:31.993Z"
         },
         "https://plus-auto.ro/anunt/2071": {
             "firstSeen": "2020-10-09T14:14:02.557Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:05:01.306Z"
+            "lastSeen": "2020-10-29T10:47:38.148Z"
         },
         "https://plus-auto.ro/anunt/2070": {
             "firstSeen": "2020-10-09T14:14:02.558Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:05:01.307Z"
+            "lastSeen": "2020-10-29T10:47:38.149Z"
         },
         "https://plus-auto.ro/anunt/2068": {
             "firstSeen": "2020-10-09T14:14:02.565Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:05:01.308Z"
+            "lastSeen": "2020-10-29T10:47:38.150Z"
         },
         "https://plus-auto.ro/anunt/2067": {
             "firstSeen": "2020-10-09T14:14:02.566Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:05:01.310Z"
+            "lastSeen": "2020-10-29T10:47:38.152Z"
         },
         "https://plus-auto.ro/anunt/2066": {
             "firstSeen": "2020-10-09T14:14:02.568Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:05:01.311Z"
+            "lastSeen": "2020-10-29T10:47:38.153Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-gle-coupe-ID7GEt0A.html": {
             "firstSeen": "2020-10-10T16:42:43.836Z",
@@ -2957,27 +2957,27 @@
         "https://elite-cars-leasing.ro/collections/clasa-gle/products/mercedes-benz-gle-klasse-gle-350-d-4matic-amg-line-night-paket": {
             "firstSeen": "2020-10-11T19:29:33.286Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:49.657Z"
+            "lastSeen": "2020-10-29T10:47:26.012Z"
         },
         "https://www.auto-schunn.ro/detaliu-auto-144508514/Mercedes-Benz-GLB-200-PREMIUM-PROGRESSIVE-THERMOTRONIC-oferta-detaliata.htm": {
             "firstSeen": "2020-10-12T07:50:44.562Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:35.915Z"
+            "lastSeen": "2020-10-29T10:47:10.587Z"
         },
         "https://plus-auto.ro/anunt/2093": {
             "firstSeen": "2020-10-12T07:51:10.351Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:05:01.305Z"
+            "lastSeen": "2020-10-29T10:47:38.147Z"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLB/200--421901": {
             "firstSeen": "2020-10-12T11:26:42.974Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:28.060Z"
+            "lastSeen": "2020-10-29T10:47:01.995Z"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE/350_d_4MATIC--421900": {
             "firstSeen": "2020-10-12T11:26:47.838Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:32.724Z"
+            "lastSeen": "2020-10-29T10:47:07.171Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-glc-200-ID7GEuGt.html": {
             "firstSeen": "2020-10-12T11:26:56.977Z",
@@ -2987,27 +2987,27 @@
         "https://elite-cars-leasing.ro/collections/clasa-glc/products/mercedes-benz-glc-250d-amg-comand-night-led-burmester-memory": {
             "firstSeen": "2020-10-12T11:27:03.696Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:48.012Z"
+            "lastSeen": "2020-10-29T10:47:23.678Z"
         },
         "https://elite-cars-leasing.ro/collections/clasa-glc/products/mercedes-benz-glc-220-d-4m-navi-sitzhzg-parkpilot": {
             "firstSeen": "2020-10-12T11:27:03.702Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:48.005Z"
+            "lastSeen": "2020-10-29T10:47:23.671Z"
         },
         "https://elite-cars-leasing.ro/collections/clasa-glc/products/mercedes-benz-glc-250-d-4m-amg-burmester-ils-18voll-leder": {
             "firstSeen": "2020-10-12T11:27:03.704Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:48.015Z"
+            "lastSeen": "2020-10-29T10:47:23.681Z"
         },
         "https://plus-auto.ro/anunt/2097": {
             "firstSeen": "2020-10-12T11:27:20.218Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:05:04.289Z"
+            "lastSeen": "2020-10-29T10:47:41.111Z"
         },
         "https://plus-auto.ro/anunt/2095": {
             "firstSeen": "2020-10-12T11:27:20.220Z",
             "verdict": "YES",
-            "lastSeen": "2020-10-29T06:05:04.290Z"
+            "lastSeen": "2020-10-29T10:47:41.112Z"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE/400_d_4MATIC_Coupe--421915": {
             "firstSeen": "2020-10-12T12:41:31.028Z",
@@ -3016,27 +3016,27 @@
         "https://www.autovit.ro/anunt/mercedes-benz-glb-200-ID7GEw31.html": {
             "firstSeen": "2020-10-12T12:41:40.438Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:40.209Z"
+            "lastSeen": "2020-10-29T10:47:15.201Z"
         },
         "https://plus-auto.ro/anunt/2102": {
             "firstSeen": "2020-10-12T12:42:01.736Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:05:01.304Z"
+            "lastSeen": "2020-10-29T10:47:38.146Z"
         },
         "https://plus-auto.ro/anunt/2103": {
             "firstSeen": "2020-10-12T12:42:04.551Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:05:04.288Z"
+            "lastSeen": "2020-10-29T10:47:41.109Z"
         },
         "https://www.auto-schunn.ro/detaliu-auto-144607045/Mercedes-Benz-GLE-350-Coupe-d-4Matic-AMG-PANO-PARK-NIGHT-DAB-oferta-detaliata.htm": {
             "firstSeen": "2020-10-12T14:15:45.656Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:38.551Z"
+            "lastSeen": "2020-10-29T10:47:13.465Z"
         },
         "https://www.auto-schunn.ro/detaliu-auto-144606730/Mercedes-Benz-GLE-53-AMG-4M-ACTIVE-RIDE-PREMIUM-PANO-DISTRO-HEAD-UP-oferta-detaliata.htm": {
             "firstSeen": "2020-10-12T14:15:45.657Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:38.552Z"
+            "lastSeen": "2020-10-29T10:47:13.467Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-glc-coupe-glc250-ID7GEw4g.html": {
             "firstSeen": "2020-10-12T14:15:50.851Z",
@@ -3046,42 +3046,42 @@
         "https://www.autovit.ro/anunt/mercedes-benz-gle-350-ID7GEuXP.html": {
             "firstSeen": "2020-10-12T14:15:52.418Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:44.792Z"
+            "lastSeen": "2020-10-29T10:47:20.345Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-gle-coupe-ID7GEw7m.html": {
             "firstSeen": "2020-10-12T14:15:53.879Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:46.285Z"
+            "lastSeen": "2020-10-29T10:47:21.944Z"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLB/250_4M--416403": {
             "firstSeen": "2020-10-12T18:12:16.164Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:28.059Z"
+            "lastSeen": "2020-10-29T10:47:01.993Z"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC/220_d_4MATIC--421942": {
             "firstSeen": "2020-10-13T08:06:39.805Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:29.807Z"
+            "lastSeen": "2020-10-29T10:47:03.645Z"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE/450_4MATIC--417661": {
             "firstSeen": "2020-10-13T08:06:42.973Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:32.735Z"
+            "lastSeen": "2020-10-29T10:47:07.183Z"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE_Coupe/GLE_400_d_4MATIC_Coupe--421915": {
             "firstSeen": "2020-10-13T08:06:44.402Z",
             "verdict": "EXPENSIVE",
-            "lastSeen": "2020-10-29T06:04:34.531Z"
+            "lastSeen": "2020-10-29T10:47:08.888Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-glb-200-ID7GEvdB.html": {
             "firstSeen": "2020-10-13T08:06:50.505Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:40.208Z"
+            "lastSeen": "2020-10-29T10:47:15.200Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-gle-350-ID7GEvgk.html": {
             "firstSeen": "2020-10-13T08:06:56.610Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:44.791Z"
+            "lastSeen": "2020-10-29T10:47:20.344Z"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC/300_d_4MATIC--410254": {
             "firstSeen": "2020-10-13T10:50:31.317Z",
@@ -3098,7 +3098,7 @@
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC/200_4MATIC--421950": {
             "firstSeen": "2020-10-13T10:50:31.353Z",
-            "lastSeen": "2020-10-29T06:04:29.831Z",
+            "lastSeen": "2020-10-29T10:47:03.669Z",
             "verdict": "NO"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE/400_d_4MATIC_Coupe--421726": {
@@ -3114,17 +3114,17 @@
         "https://www.autovit.ro/anunt/mercedes-benz-glc-coupe-250-ID7GEvHj.html": {
             "firstSeen": "2020-10-13T10:50:45.916Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:43.234Z"
+            "lastSeen": "2020-10-29T10:47:18.741Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-glc-ID7GExv1.html": {
             "firstSeen": "2020-10-13T13:03:11.604Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:41.718Z"
+            "lastSeen": "2020-10-29T10:47:16.826Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-glc-ID7GExwQ.html": {
             "firstSeen": "2020-10-13T13:03:11.606Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:41.719Z"
+            "lastSeen": "2020-10-29T10:47:16.828Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-glc-ID7GCy4y.html": {
             "firstSeen": "2020-10-13T13:03:11.643Z",
@@ -3158,17 +3158,17 @@
         "https://plus-auto.ro/anunt/2156": {
             "firstSeen": "2020-10-13T13:03:32.381Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:05:01.303Z"
+            "lastSeen": "2020-10-29T10:47:38.145Z"
         },
         "https://www.auto-schunn.ro/detaliu-auto-144424387/Mercedes-Benz-GLB-200-d-4M-AMG-LINE-THERMOTRONIC-PREMIUM-360gr-oferta-detaliata.htm": {
             "firstSeen": "2020-10-13T15:03:00.388Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:35.919Z"
+            "lastSeen": "2020-10-29T10:47:10.591Z"
         },
         "https://www.auto-schunn.ro/detaliu-auto-144535263/Mercedes-Benz-GLE-400-d-4Matic-AMG-PREMIUM-AIRMATIC-BURMESTER-oferta-detaliata.htm": {
             "firstSeen": "2020-10-13T15:03:03.783Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:38.590Z"
+            "lastSeen": "2020-10-29T10:47:13.504Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-glc-ID7GEvhE.html": {
             "firstSeen": "2020-10-13T15:03:07.378Z",
@@ -3183,12 +3183,12 @@
         "https://www.autovit.ro/anunt/mercedes-benz-glb-ID7GEyjA.html": {
             "firstSeen": "2020-10-14T13:07:26.273Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:40.207Z"
+            "lastSeen": "2020-10-29T10:47:15.199Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-glb-ID7GEyuX.html": {
             "firstSeen": "2020-10-14T18:07:48.716Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:40.205Z"
+            "lastSeen": "2020-10-29T10:47:15.197Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-gle-350-ID7GDpPi.html": {
             "firstSeen": "2020-10-15T07:59:09.892Z",
@@ -3203,27 +3203,27 @@
         "https://www.autovit.ro/anunt/mercedes-benz-glc-ID7GEzn4.html": {
             "firstSeen": "2020-10-15T15:08:28.365Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:41.717Z"
+            "lastSeen": "2020-10-29T10:47:16.825Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-glc-coupe-250-ID7GEzu1.html": {
             "firstSeen": "2020-10-16T07:42:33.868Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:43.230Z"
+            "lastSeen": "2020-10-29T10:47:18.738Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-glc-coupe-300-ID7GEztr.html": {
             "firstSeen": "2020-10-16T07:42:33.870Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:43.232Z"
+            "lastSeen": "2020-10-29T10:47:18.739Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-glc-coupe-250-ID7GEztg.html": {
             "firstSeen": "2020-10-16T07:42:33.877Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:43.233Z"
+            "lastSeen": "2020-10-29T10:47:18.740Z"
         },
         "https://plus-auto.ro/anunt/2205": {
             "firstSeen": "2020-10-16T07:42:51.661Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:05:01.302Z"
+            "lastSeen": "2020-10-29T10:47:38.144Z"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC/220_d_4MATIC--421127": {
             "firstSeen": "2020-10-16T11:09:30.957Z"
@@ -3236,26 +3236,26 @@
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE_Coupe/GLE_350_d_4MATIC_Coupe--416693": {
             "firstSeen": "2020-10-16T11:09:35.219Z",
             "verdict": "MAYBE",
-            "lastSeen": "2020-10-29T06:04:34.530Z"
+            "lastSeen": "2020-10-29T10:47:08.887Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-glb-250-ID7GEzHn.html": {
             "firstSeen": "2020-10-16T11:09:40.807Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:40.204Z"
+            "lastSeen": "2020-10-29T10:47:15.196Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-gle-350-ID7GEzI9.html": {
             "firstSeen": "2020-10-16T11:09:45.598Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:44.789Z"
+            "lastSeen": "2020-10-29T10:47:20.341Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-gle-300-ID7GEzEQ.html": {
             "firstSeen": "2020-10-16T11:09:45.599Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:44.790Z"
+            "lastSeen": "2020-10-29T10:47:20.343Z"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC_Coupe/GLC_200_4MATIC_Coupe--421828": {
             "firstSeen": "2020-10-16T12:45:34.496Z",
-            "lastSeen": "2020-10-29T06:04:31.178Z",
+            "lastSeen": "2020-10-29T10:47:05.252Z",
             "verdict": "NO"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-gle-coupe-ID7GEzKA.html": {
@@ -3266,12 +3266,12 @@
         "https://www.auto-schunn.ro/detaliu-auto-144481851/Mercedes-Benz-GLC-220-Coupe-d-4Matic-AMG-SPORT-DISTRO-PREMIUM--oferta-detaliata.htm": {
             "firstSeen": "2020-10-16T14:16:29.591Z",
             "verdict": "MAYBE",
-            "lastSeen": "2020-10-29T06:04:37.238Z"
+            "lastSeen": "2020-10-29T10:47:11.971Z"
         },
         "https://plus-auto.ro/anunt/2209": {
             "firstSeen": "2020-10-16T14:16:54.288Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:05:01.300Z"
+            "lastSeen": "2020-10-29T10:47:38.142Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-glc-200-ID7GEzVu.html": {
             "firstSeen": "2020-10-18T08:10:20.155Z",
@@ -3286,77 +3286,77 @@
         "https://www.autovit.ro/anunt/mercedes-benz-glc-coupe-200-ID7GEzVH.html": {
             "firstSeen": "2020-10-18T08:10:21.821Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:43.229Z"
+            "lastSeen": "2020-10-29T10:47:18.737Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-gle-ID7GEA1O.html": {
             "firstSeen": "2020-10-18T08:10:23.461Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:44.785Z"
+            "lastSeen": "2020-10-29T10:47:20.337Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-gle-350-ID7GEzVk.html": {
             "firstSeen": "2020-10-18T08:10:23.463Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:44.786Z"
+            "lastSeen": "2020-10-29T10:47:20.339Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-gle-ID7GEzV3.html": {
             "firstSeen": "2020-10-18T08:10:23.465Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:44.788Z"
+            "lastSeen": "2020-10-29T10:47:20.340Z"
         },
         "https://plus-auto.ro/anunt/2223": {
             "firstSeen": "2020-10-18T08:10:40.830Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:05:01.297Z"
+            "lastSeen": "2020-10-29T10:47:38.139Z"
         },
         "https://plus-auto.ro/anunt/2222": {
             "firstSeen": "2020-10-18T08:10:40.832Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:05:01.298Z"
+            "lastSeen": "2020-10-29T10:47:38.140Z"
         },
         "https://plus-auto.ro/anunt/2217": {
             "firstSeen": "2020-10-18T08:10:40.834Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:05:01.299Z"
+            "lastSeen": "2020-10-29T10:47:38.141Z"
         },
         "https://elite-cars-leasing.ro/collections/clasa-gle/products/mercedes-benz-gle-53-amg-coupe-in-stock-grey-red": {
             "firstSeen": "2020-10-18T19:03:20.849Z",
             "verdict": "EXPENSIVE",
-            "lastSeen": "2020-10-29T06:04:49.645Z"
+            "lastSeen": "2020-10-29T10:47:26.003Z"
         },
         "https://elite-cars-leasing.ro/collections/clasa-gle/products/mercedes-benz-gle-350-d-4matic-led-airmatic-ahk-standhz": {
             "firstSeen": "2020-10-18T19:03:20.853Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:49.653Z"
+            "lastSeen": "2020-10-29T10:47:26.009Z"
         },
         "https://elite-cars-leasing.ro/collections/clasa-gle/products/mercedes-benz-gle-53-amg-coupe-in-stock-gray-red": {
             "firstSeen": "2020-10-19T07:08:19.832Z",
             "verdict": "EXPENSIVE",
-            "lastSeen": "2020-10-29T06:04:49.643Z"
+            "lastSeen": "2020-10-29T10:47:26.002Z"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLB/220_d_4_MATIC--417672": {
             "firstSeen": "2020-10-19T08:39:42.828Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:28.054Z"
+            "lastSeen": "2020-10-29T10:47:01.988Z"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLB/200_d_4MATIC--417655": {
             "firstSeen": "2020-10-19T08:39:42.830Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:28.055Z"
+            "lastSeen": "2020-10-29T10:47:01.989Z"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC/220_d_4MATIC--414162": {
             "firstSeen": "2020-10-19T08:39:44.643Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:29.805Z"
+            "lastSeen": "2020-10-29T10:47:03.644Z"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLB/200_d--416683": {
             "firstSeen": "2020-10-19T12:14:07.983Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:28.051Z"
+            "lastSeen": "2020-10-29T10:47:01.986Z"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLB/200_d_4MATIC--421023": {
             "firstSeen": "2020-10-19T12:14:07.996Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:28.056Z"
+            "lastSeen": "2020-10-29T10:47:01.991Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-glc-ID7GEB5V.html": {
             "firstSeen": "2020-10-19T12:14:22.545Z",
@@ -3366,12 +3366,12 @@
         "https://www.autovit.ro/anunt/mercedes-benz-glc-ID7GEB5R.html": {
             "firstSeen": "2020-10-19T12:14:22.546Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:41.716Z"
+            "lastSeen": "2020-10-29T10:47:16.824Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-gle-450-ID7GDwmA.html": {
             "firstSeen": "2020-10-20T07:35:11.685Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:44.804Z"
+            "lastSeen": "2020-10-29T10:47:20.360Z"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC/300_de_4MATIC--422133": {
             "firstSeen": "2020-10-20T09:28:10.530Z",
@@ -3380,22 +3380,22 @@
         "https://www.autovit.ro/anunt/mercedes-benz-glc-coupe-220-ID7GECd2.html": {
             "firstSeen": "2020-10-20T11:32:43.392Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:43.227Z"
+            "lastSeen": "2020-10-29T10:47:18.734Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-glc-coupe-ID7GEC8H.html": {
             "firstSeen": "2020-10-20T11:32:43.393Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:43.228Z"
+            "lastSeen": "2020-10-29T10:47:18.735Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-glb-ID7GEDdy.html": {
             "firstSeen": "2020-10-21T07:03:42.631Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:40.202Z"
+            "lastSeen": "2020-10-29T10:47:15.194Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-glb-ID7GEDdr.html": {
             "firstSeen": "2020-10-21T07:03:42.632Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:40.203Z"
+            "lastSeen": "2020-10-29T10:47:15.195Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-glc-250-ID7GECy4.html": {
             "firstSeen": "2020-10-21T07:03:44.381Z",
@@ -3409,7 +3409,7 @@
         "https://www.autovit.ro/anunt/mercedes-benz-glc-coupe-220-ID7GED4h.html": {
             "firstSeen": "2020-10-21T07:03:45.889Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:43.226Z"
+            "lastSeen": "2020-10-29T10:47:18.732Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-gle-coupe-350-ID7GEDvj.html": {
             "firstSeen": "2020-10-21T07:03:49.122Z",
@@ -3419,27 +3419,27 @@
         "https://www.autovit.ro/anunt/mercedes-benz-glb-ID7GEETW.html": {
             "firstSeen": "2020-10-21T08:51:46.156Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:40.201Z"
+            "lastSeen": "2020-10-29T10:47:15.193Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-glc-coupe-200-ID7GEDSh.html": {
             "firstSeen": "2020-10-21T13:36:35.273Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:43.225Z"
+            "lastSeen": "2020-10-29T10:47:18.731Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-gle-450-ID7GEBIQ.html": {
             "firstSeen": "2020-10-21T13:36:37.001Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:44.784Z"
+            "lastSeen": "2020-10-29T10:47:20.336Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-glb-ID7GEFUJ.html": {
             "firstSeen": "2020-10-21T17:24:44.321Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:40.200Z"
+            "lastSeen": "2020-10-29T10:47:15.192Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-gle-300-ID7GEFP7.html": {
             "firstSeen": "2020-10-21T17:24:49.607Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:44.783Z"
+            "lastSeen": "2020-10-29T10:47:20.335Z"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLB/200d_4M--415477": {
             "firstSeen": "2020-10-22T09:00:31.620Z"
@@ -3447,7 +3447,7 @@
         "https://www.autovit.ro/anunt/mercedes-benz-gle-400-ID7GEI6E.html": {
             "firstSeen": "2020-10-22T09:00:57.762Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:44.782Z"
+            "lastSeen": "2020-10-29T10:47:20.333Z"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC/200_4MATIC--422128": {
             "firstSeen": "2020-10-22T11:47:37.815Z"
@@ -3455,16 +3455,17 @@
         "https://www.autovit.ro/anunt/mercedes-benz-gle-450-ID7GEIoM.html": {
             "firstSeen": "2020-10-22T11:47:59.425Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:44.781Z"
+            "lastSeen": "2020-10-29T10:47:20.332Z"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC/220_d_4MATIC--422211": {
             "firstSeen": "2020-10-22T12:40:03.137Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:29.801Z"
+            "lastSeen": "2020-10-29T10:47:03.642Z"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC/300_de_4MATIC--422217": {
             "firstSeen": "2020-10-22T12:40:03.139Z",
-            "lastSeen": "2020-10-29T06:04:29.803Z"
+            "verdict": "MAYBE",
+            "lastSeen": "2020-10-29T10:47:03.641Z"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE/450_4MATIC--411928": {
             "firstSeen": "2020-10-22T12:40:05.933Z",
@@ -3474,66 +3475,67 @@
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE_Coupe/GLE_400_d_4MATIC_Coupe--421726": {
             "firstSeen": "2020-10-22T12:40:07.233Z",
             "verdict": "EXPENSIVE",
-            "lastSeen": "2020-10-29T06:04:34.527Z"
+            "lastSeen": "2020-10-29T10:47:08.881Z"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE_Coupe/GLE_350_d_4MATIC_Coupe--417663": {
             "firstSeen": "2020-10-22T12:40:07.242Z",
-            "lastSeen": "2020-10-29T06:04:34.528Z"
+            "verdict": "MAYBE",
+            "lastSeen": "2020-10-29T10:47:08.884Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-glc-200-ID7GEJE6.html": {
             "firstSeen": "2020-10-22T12:40:14.588Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:41.714Z"
+            "lastSeen": "2020-10-29T10:47:16.823Z"
         },
         "https://plus-auto.ro/anunt/2266": {
             "firstSeen": "2020-10-22T12:40:34.155Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:05:01.294Z"
+            "lastSeen": "2020-10-29T10:47:38.137Z"
         },
         "https://plus-auto.ro/anunt/2265": {
             "firstSeen": "2020-10-22T12:40:34.157Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:05:01.296Z"
+            "lastSeen": "2020-10-29T10:47:38.138Z"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLB/220_d_4_MATIC--422238": {
             "firstSeen": "2020-10-22T14:14:56.968Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:28.046Z"
+            "lastSeen": "2020-10-29T10:47:01.983Z"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLB/200_d_4MATIC--422038": {
             "firstSeen": "2020-10-22T14:14:56.981Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:28.058Z"
+            "lastSeen": "2020-10-29T10:47:01.992Z"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLB/200_d_4MATIC--421903": {
             "firstSeen": "2020-10-22T14:14:56.985Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:28.062Z"
+            "lastSeen": "2020-10-29T10:47:01.996Z"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE_Coupe/GLE_350_d_4MATIC_Coupe--421831": {
             "firstSeen": "2020-10-22T14:15:03.261Z",
             "verdict": "MAYBE",
-            "lastSeen": "2020-10-29T06:04:34.535Z"
+            "lastSeen": "2020-10-29T10:47:08.892Z"
         },
         "https://plus-auto.ro/anunt/2269": {
             "firstSeen": "2020-10-22T14:15:30.284Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:55.524Z"
+            "lastSeen": "2020-10-29T10:47:31.982Z"
         },
         "https://plus-auto.ro/anunt/2268": {
             "firstSeen": "2020-10-22T14:15:30.285Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:55.525Z"
+            "lastSeen": "2020-10-29T10:47:31.984Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-glb-ID7GEKIs.html": {
             "firstSeen": "2020-10-23T05:33:23.263Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:40.198Z"
+            "lastSeen": "2020-10-29T10:47:15.190Z"
         },
         "https://plus-auto.ro/anunt/2267": {
             "firstSeen": "2020-10-23T05:33:48.494Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:05:01.293Z"
+            "lastSeen": "2020-10-29T10:47:38.136Z"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE/400_d_4MATIC--415289": {
             "firstSeen": "2020-10-23T09:27:45.375Z",
@@ -3542,42 +3544,42 @@
         "https://www.autovit.ro/anunt/mercedes-benz-glc-coupe-220-ID7GEOyL.html": {
             "firstSeen": "2020-10-23T09:27:58.542Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:43.223Z"
+            "lastSeen": "2020-10-29T10:47:18.730Z"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE_Coupe/GLE_400_d_4MATIC_Coupe--416841": {
             "firstSeen": "2020-10-23T12:46:19.247Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:34.515Z"
+            "lastSeen": "2020-10-29T10:47:08.864Z"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE_Coupe/GLE_400_d_4MATIC_Coupe--422224": {
             "firstSeen": "2020-10-23T12:46:19.249Z",
-            "lastSeen": "2020-10-29T06:04:34.522Z",
+            "lastSeen": "2020-10-29T10:47:08.871Z",
             "verdict": "NO"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-glc-250-ID7GEPfZ.html": {
             "firstSeen": "2020-10-24T11:08:38.283Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:41.713Z"
+            "lastSeen": "2020-10-29T10:47:16.822Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-gle-ID7GEUNd.html": {
             "firstSeen": "2020-10-24T11:08:41.752Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:44.778Z"
+            "lastSeen": "2020-10-29T10:47:20.330Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-gle-ID7GEUL6.html": {
             "firstSeen": "2020-10-24T11:08:41.754Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:44.779Z"
+            "lastSeen": "2020-10-29T10:47:20.331Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-glc-200-ID7GEWdK.html": {
             "firstSeen": "2020-10-25T11:35:43.267Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:41.711Z"
+            "lastSeen": "2020-10-29T10:47:16.821Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-gle-ID7GEWyd.html": {
             "firstSeen": "2020-10-26T07:55:58.047Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:44.777Z"
+            "lastSeen": "2020-10-29T10:47:20.328Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-gle-ID7GD3aB.html": {
             "firstSeen": "2020-10-26T07:55:58.086Z",
@@ -3587,192 +3589,205 @@
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC/200_d_4MATIC--410303": {
             "firstSeen": "2020-10-26T10:21:56.749Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:29.796Z"
+            "lastSeen": "2020-10-29T10:47:03.636Z"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLE_Coupe/GLE_350_d_4MATIC_Coupe--416873": {
             "firstSeen": "2020-10-26T14:52:42.792Z",
             "verdict": "EXPENSIVE",
-            "lastSeen": "2020-10-29T06:04:34.514Z"
+            "lastSeen": "2020-10-29T10:47:08.862Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-glc-ID7GEZCr.html": {
             "firstSeen": "2020-10-26T14:52:52.753Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:41.709Z"
+            "lastSeen": "2020-10-29T10:47:16.818Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-glc-200-ID7GEZpg.html": {
             "firstSeen": "2020-10-26T14:52:52.755Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:41.710Z"
+            "lastSeen": "2020-10-29T10:47:16.819Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-gle-ID7GF07Q.html": {
             "firstSeen": "2020-10-26T14:52:55.809Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:44.775Z"
+            "lastSeen": "2020-10-29T10:47:20.326Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-gle-ID7GEZQr.html": {
             "firstSeen": "2020-10-26T14:52:55.810Z",
             "verdict": "MAYBE",
-            "lastSeen": "2020-10-29T06:04:44.776Z"
+            "lastSeen": "2020-10-29T10:47:20.327Z"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC/300_d_4MATIC--422307": {
             "firstSeen": "2020-10-27T07:50:01.413Z",
-            "lastSeen": "2020-10-29T06:04:29.798Z"
+            "lastSeen": "2020-10-29T10:47:03.638Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-glc-200-ID7GF35Y.html": {
             "firstSeen": "2020-10-27T11:50:12.216Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:41.705Z"
+            "lastSeen": "2020-10-29T10:47:16.814Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-glc-220-ID7GF34C.html": {
             "firstSeen": "2020-10-27T11:50:12.218Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:41.706Z"
+            "lastSeen": "2020-10-29T10:47:16.815Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-glc-250-ID7GF2Yj.html": {
             "firstSeen": "2020-10-27T11:50:12.225Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:41.707Z"
+            "lastSeen": "2020-10-29T10:47:16.817Z"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC/220_d_4MATIC--422349": {
             "firstSeen": "2020-10-27T16:02:13.294Z",
-            "lastSeen": "2020-10-29T06:04:29.833Z"
+            "lastSeen": "2020-10-29T10:47:03.670Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-glc-ID7GF3ez.html": {
             "firstSeen": "2020-10-27T16:02:26.445Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:41.700Z"
+            "lastSeen": "2020-10-29T10:47:16.810Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-glc-200-ID7GF37N.html": {
             "firstSeen": "2020-10-27T16:02:26.446Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:41.701Z"
+            "lastSeen": "2020-10-29T10:47:16.811Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-glc-200-ID7GF37q.html": {
             "firstSeen": "2020-10-27T16:02:26.453Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:41.702Z"
+            "lastSeen": "2020-10-29T10:47:16.812Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-glc-220-ID7GF36y.html": {
             "firstSeen": "2020-10-27T16:02:26.454Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:41.703Z"
+            "lastSeen": "2020-10-29T10:47:16.813Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-glc-coupe-ID7GF36S.html": {
             "firstSeen": "2020-10-27T16:02:27.935Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:43.222Z"
+            "lastSeen": "2020-10-29T10:47:18.729Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-gle-350-ID7GF3rG.html": {
             "firstSeen": "2020-10-27T16:02:29.671Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:44.764Z"
+            "lastSeen": "2020-10-29T10:47:20.319Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-gle-300-ID7GF3mJ.html": {
             "firstSeen": "2020-10-27T16:02:29.672Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:44.765Z"
+            "lastSeen": "2020-10-29T10:47:20.320Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-gle-300-ID7GF3iJ.html": {
             "firstSeen": "2020-10-27T16:02:29.674Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:44.772Z"
+            "lastSeen": "2020-10-29T10:47:20.322Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-gle-300-ID7GF3g7.html": {
             "firstSeen": "2020-10-27T16:02:29.676Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:44.773Z"
+            "lastSeen": "2020-10-29T10:47:20.323Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-gle-300-ID7GF3fF.html": {
             "firstSeen": "2020-10-27T16:02:29.677Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:44.774Z"
+            "lastSeen": "2020-10-29T10:47:20.325Z"
         },
         "https://plus-auto.ro/anunt/2317": {
             "firstSeen": "2020-10-27T16:02:47.424Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:05:01.288Z"
+            "lastSeen": "2020-10-29T10:47:38.127Z"
         },
         "https://plus-auto.ro/anunt/2304": {
             "firstSeen": "2020-10-27T16:02:47.429Z",
             "verdict": "MAYBE",
-            "lastSeen": "2020-10-29T06:05:01.289Z"
+            "lastSeen": "2020-10-29T10:47:38.129Z"
         },
         "https://plus-auto.ro/anunt/2312": {
             "firstSeen": "2020-10-27T16:02:50.731Z",
             "verdict": "EXPENSIVE",
-            "lastSeen": "2020-10-29T06:05:04.281Z"
+            "lastSeen": "2020-10-29T10:47:41.103Z"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC/220_d_4MATIC--422370": {
             "firstSeen": "2020-10-28T12:51:17.526Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:29.783Z"
+            "lastSeen": "2020-10-29T10:47:03.629Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-glc-ID7GF4QY.html": {
             "firstSeen": "2020-10-28T12:51:28.987Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:41.695Z"
+            "lastSeen": "2020-10-29T10:47:16.807Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-glc-ID7GF4QW.html": {
             "firstSeen": "2020-10-28T12:51:28.988Z",
             "verdict": "MAYBE",
-            "lastSeen": "2020-10-29T06:04:41.697Z"
+            "lastSeen": "2020-10-29T10:47:16.808Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-glc-300-ID7GF4LQ.html": {
             "firstSeen": "2020-10-28T12:51:28.995Z",
             "verdict": "NO",
-            "lastSeen": "2020-10-29T06:04:41.698Z"
+            "lastSeen": "2020-10-29T10:47:16.809Z"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC/300_d_4MATIC--422383": {
             "firstSeen": "2020-10-29T06:04:29.785Z",
-            "verdict": "NO"
+            "verdict": "NO",
+            "lastSeen": "2020-10-29T10:47:03.631Z"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC/220_d_4MATIC--422385": {
             "firstSeen": "2020-10-29T06:04:29.792Z",
-            "verdict": "NO"
+            "verdict": "NO",
+            "lastSeen": "2020-10-29T10:47:03.633Z"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC/300_e_4MATIC--422332": {
             "firstSeen": "2020-10-29T06:04:29.797Z",
-            "verdict": "NO"
+            "verdict": "NO",
+            "lastSeen": "2020-10-29T10:47:03.635Z"
         },
         "https://www.autoklass-market.ro/masini/Mercedes-Benz/GLC/300_d_4MATIC--422399": {
             "firstSeen": "2020-10-29T06:04:29.799Z",
-            "verdict": "NO"
+            "verdict": "NO",
+            "lastSeen": "2020-10-29T10:47:03.639Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-glb-ID7GF51Y.html": {
             "firstSeen": "2020-10-29T06:04:40.191Z",
-            "verdict": "MAYBE"
+            "verdict": "MAYBE",
+            "lastSeen": "2020-10-29T10:47:15.181Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-glb-250-ID7GF4ZD.html": {
             "firstSeen": "2020-10-29T06:04:40.192Z",
-            "verdict": "NO"
+            "verdict": "NO",
+            "lastSeen": "2020-10-29T10:47:15.188Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-glc-ID7GF5mn.html": {
             "firstSeen": "2020-10-29T06:04:41.688Z",
-            "verdict": "MAYBE"
+            "verdict": "MAYBE",
+            "lastSeen": "2020-10-29T10:47:16.793Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-glc-ID7GF5cf.html": {
             "firstSeen": "2020-10-29T06:04:41.689Z",
-            "verdict": "NO"
+            "verdict": "NO",
+            "lastSeen": "2020-10-29T10:47:16.795Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-glc-ID7GF5ce.html": {
             "firstSeen": "2020-10-29T06:04:41.690Z",
-            "verdict": "NO"
+            "verdict": "NO",
+            "lastSeen": "2020-10-29T10:47:16.801Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-glc-ID7GF52n.html": {
             "firstSeen": "2020-10-29T06:04:41.692Z",
-            "verdict": "NO"
+            "verdict": "NO",
+            "lastSeen": "2020-10-29T10:47:16.803Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-glc-ID7GF51X.html": {
             "firstSeen": "2020-10-29T06:04:41.693Z",
-            "verdict": "NO"
+            "verdict": "NO",
+            "lastSeen": "2020-10-29T10:47:16.804Z"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-glc-ID7GF507.html": {
             "firstSeen": "2020-10-29T06:04:41.694Z",
-            "verdict": "NO"
+            "verdict": "NO",
+            "lastSeen": "2020-10-29T10:47:16.805Z"
         },
         "https://plus-auto.ro/anunt/2348": {
             "firstSeen": "2020-10-29T06:05:04.280Z",
-            "verdict": "EXPENSIVE"
+            "verdict": "EXPENSIVE",
+            "lastSeen": "2020-10-29T10:47:41.101Z"
         }
     }
 }
