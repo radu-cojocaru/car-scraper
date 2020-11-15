@@ -4750,6 +4750,14 @@
             "firstSeen": "2020-11-14T12:56:08.397Z",
             "verdict": "NO",
             "lastSeen": "2020-11-14T15:29:42.268Z"
+        },
+        "https://www.autovit.ro/anunt/mercedes-benz-glc-coupe-220-ID7GFkDk.html": {
+          "firstSeen": "2020-11-15T08:39:23.356Z",
+          "verdict": "NO"
+        },
+        "https://www.autovit.ro/anunt/mercedes-benz-gle-ID7GFkMC.html": {
+          "firstSeen": "2020-11-15T08:39:24.882Z",
+          "verdict": "NO"
         }
     }
 }
