@@ -10,7 +10,7 @@ const subPathForModel = (model) =>
 
 const modelSubPath = {
   glb: subPathForModel("glb"),
-  glc: subPathForModel("glc_classe"),
+  glc: subPathForModel("glc"),
   glcCoupe: subPathForModel("glc-coupe"),
   gle: subPathForModel("gle_classe"),
   gleCoupe: subPathForModel("gle-coupe"),
