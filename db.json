@@ -2719,6 +2719,7 @@
             "verdict": "YES",
             "lastSeen": "2020-11-17T09:15:53.327Z",
             "price": {
+                "5 Oct 2020": "57 477 EUR",
                 "19 Nov 2020": "55 573 EUR"
             }
         },
@@ -5079,8 +5080,12 @@
             "verdict": "NO"
         },
         "https://www.autovit.ro/anunt/mercedes-benz-gle-coupe-ID7GA9ve.html": {
+            "urlDealer": "https://www.auto-senger.de/fahrzeuge/mercedes-benz-gle-350-sportwagencoupe-gle-350-d-4m-coupe-amgpanodistronicahkled-diesel-weiss-272ps-beckum-79119/",
             "firstSeen": "2020-11-19T12:27:14.832Z",
-            "verdict": "YES"
+            "verdict": "YES",
+            "price": {
+                "19 Nov 2020": "74 836 EUR (dealer: 72.950 €)"
+            }
         }
     }
 }
