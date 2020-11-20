@@ -84,9 +84,9 @@ const findNewCars = async () => {
   await scrap(autoklass, mercedesModels.gle);
   await scrap(autoklass, mercedesModels.gleCoupe);
 
-  await scrap(autoSchunn, mercedesModels.glb);
-  await scrap(autoSchunn, mercedesModels.glc);
-  await scrap(autoSchunn, mercedesModels.gle);
+  // await scrap(autoSchunn, mercedesModels.glb);
+  // await scrap(autoSchunn, mercedesModels.glc);
+  // await scrap(autoSchunn, mercedesModels.gle);
 
   await scrap(autovit, mercedesModels.glb);
   await scrap(autovit, mercedesModels.glc);
